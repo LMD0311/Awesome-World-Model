@@ -17,11 +17,8 @@ Feel free to share this list with others!
 ### Technical blog or video
 
 - Yann LeCun: A Path Towards Autonomous Machine Intelligence [[paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)] [[Video](https://www.youtube.com/watch?v=OKkEdTchsiE)]
-
 - [CVPR'23 WAD] Keynote - Ashok Elluswamy, Tesla [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
-
 - Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy [[blog](https://wayve.ai/thinking/introducing-gaia1/)] 
-
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations.
 
 ## 2023
@@ -37,7 +34,7 @@ Feel free to share this list with others!
 - [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.17080)]
 - [**ADriver-I**] ADriver-I: A General World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2311.13549)]
 - [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.09777)]
-+ [**UniWorld**] UniWorld: Autonomous Driving Pre-training via World Models. (2023.8, arxiv) [[Paper](https://arxiv.org/abs/2308.07234)] [[Code](https://github.com/chaytonmin/UniWorld)]
+- [**UniWorld**] UniWorld: Autonomous Driving Pre-training via World Models. (2023.8, arxiv) [[Paper](https://arxiv.org/abs/2308.07234)] [[Code](https://github.com/chaytonmin/UniWorld)]
 
 ## 2022
 
