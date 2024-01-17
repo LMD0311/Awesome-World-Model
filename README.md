@@ -39,7 +39,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MUVO**] MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations.(2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.11762)]
 - [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.17080)]
 - [**ADriver-I**] ADriver-I: A General World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2311.13549)]
-- [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.09777)]
+- [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
 - [**UniWorld**] UniWorld: Autonomous Driving Pre-training via World Models. (2023.8, arxiv) [[Paper](https://arxiv.org/abs/2308.07234)] [[Code](https://github.com/chaytonmin/UniWorld)]
 
 ## 2022
