@@ -46,6 +46,3 @@ Feel free to share this list with others!
 
 - [Awesome-World-Models-for-AD 🚗](https://github.com/zhanghm1995/awesome-world-models-for-AD?tab=readme-ov-file#Table-of-Content)
 
-### Acknowledgement
-
-Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
