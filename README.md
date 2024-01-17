@@ -6,7 +6,11 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. 
 
-Feel free to share this list with others! 
+Feel free to share this list with others! 🥳🥳🥳
+
+## Challenge
+
+[CVPR 2024 Workshop & Challenge | OpenDriveLab](https://opendrivelab.com/cvpr2024/) Track #4: Predictive World Model.
 
 ## Papers
 
