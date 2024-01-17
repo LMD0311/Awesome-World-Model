@@ -10,7 +10,9 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ## Challenge
 
-[CVPR 2024 Workshop & Challenge | OpenDriveLab](https://opendrivelab.com/cvpr2024/) Track #4: Predictive World Model.
+- [CVPR 2024 Workshop & Challenge | OpenDriveLab](https://opendrivelab.com/cvpr2024/) Track #4: Predictive World Model.
+
+  > Serving as an abstract spatio-temporal representation of reality, the world model can predict future states based on the current state. The learning process of world models has the potential to elevate a pre-trained foundation model to the next level. Given vision-only inputs, the neural network outputs point clouds in the future to testify its predictive capability of the world.
 
 ## Papers
 
