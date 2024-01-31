@@ -29,6 +29,9 @@ Feel free to share this list with others! 🥳🥳🥳
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations.
   
 ## 2024
+- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
+- SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- Planning with an Ensemble of World Models. [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
 - [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. (2024.1, arxiv) [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
 
 ## 2023
@@ -39,7 +42,6 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**CTT**] Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.18307)]
 - [**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.17918)] [[Code](https://github.com/BraveGroup/Drive-WM)]
 - [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
-- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**MUVO**] MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations.(2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.11762)]
 - [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.17080)]
 - [**ADriver-I**] ADriver-I: A General World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2311.13549)]
