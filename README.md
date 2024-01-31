@@ -30,7 +30,7 @@ Feel free to share this list with others! 🥳🥳🥳
   
 ## 2024
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
-- SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
 - Planning with an Ensemble of World Models. [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
 - [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. (2024.1, arxiv) [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
 
