@@ -4,7 +4,7 @@ Collect some World Models for Autonomous Driving papers.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repository useful, please consider **[citing](#citation)** and **giving us a star **🌟. 
+If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
 
 Feel free to share this list with others! 🥳🥳🥳
 
