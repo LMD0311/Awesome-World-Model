@@ -4,7 +4,7 @@ Collect some World Models for Autonomous Driving papers.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repository useful, please consider **[citing](#citation)** and **★STARing** this list. 
+If you find this repository useful, please consider **[citing](#citation)** and **giving us a star **🌟. 
 
 Feel free to share this list with others! 🥳🥳🥳
 
@@ -29,6 +29,7 @@ Feel free to share this list with others! 🥳🥳🥳
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations.
   
 ## 2024
+- [**Sora**] Video generation models as world simulators. (**OpenAI**) [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
 - Planning with an Ensemble of World Models. [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
