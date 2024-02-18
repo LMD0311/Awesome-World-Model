@@ -30,6 +30,7 @@ Feel free to share this list with others! 🥳🥳🥳
   
 ## 2024
 - [**Sora**] Video generation models as world simulators. (**OpenAI**) [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
+- [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. (**Meta AI Research, FAIR**) [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
 - [**LWM**] World Model on Million-Length Video And Language With RingAttention. (2024.2, arxiv)  [[Paper](https://arxiv.org/abs/2402.08268)] [[Code](https://github.com/LargeWorldModel/LWM)]
