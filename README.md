@@ -32,7 +32,8 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**Sora**] Video generation models as world simulators. (**OpenAI**) [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
-- Planning with an Ensemble of World Models. [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
+- [**LWM**] World Model on Million-Length Video And Language With RingAttention. (2024.2, arxiv)  [[Paper](https://arxiv.org/abs/2402.08268)] [[Code](https://github.com/LargeWorldModel/LWM)]
+- Planning with an Ensemble of World Models. (OpenReview) [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
 - [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. (2024.1, arxiv) [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
 
 ## 2023
