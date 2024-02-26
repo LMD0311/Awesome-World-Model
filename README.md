@@ -1,8 +1,8 @@
 # Awesome World Models for Autonomous Driving [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collect some World Models for Autonomous Driving papers. 
+Collect some World Models (for Autonomous Driving) papers. 
 
-If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome.
+If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
 If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
 
@@ -28,11 +28,14 @@ Feel free to share this list with others! 🥳🥳🥳
 - Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy [[blog](https://wayve.ai/thinking/introducing-gaia1/)] 
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations.
   
+
 ## 2024
-- [**Sora**] Video generation models as world simulators. (**OpenAI**) [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
-- [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. (**Meta AI Research, FAIR**) [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
+
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**Genie**] Genie: Generative Interactive Environments. (**Google DeepMind**) [[Paper](https://arxiv.org/abs/2402.15391)] [[Blog](https://sites.google.com/view/genie-2024/home)]
+- [**Sora**] Video generation models as world simulators. (**OpenAI**) [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
+- [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. (**Meta AI Research, FAIR**) [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
 - [**LWM**] World Model on Million-Length Video And Language With RingAttention. (2024.2, arxiv)  [[Paper](https://arxiv.org/abs/2402.08268)] [[Code](https://github.com/LargeWorldModel/LWM)]
 - Planning with an Ensemble of World Models. (OpenReview) [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
 - [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. (2024.1, arxiv) [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
@@ -56,8 +59,4 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MILE**] Model-Based Imitation Learning for Urban Driving. (**NeurIPS 2022**) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)] [[Code](https://github.com/wayveai/mile)]
 - Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation. (**ICRA 2022**) [[Paper](https://arxiv.org/abs/2205.03195)] 
 - Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving. (**IROS 2022**) [[Paper](https://arxiv.org/abs/2210.09539)]
-
-### Other resource
-
-- [Awesome-World-Models-for-AD 🚗](https://github.com/zhanghm1995/awesome-world-models-for-AD?tab=readme-ov-file#Table-of-Content)
 
