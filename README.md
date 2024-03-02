@@ -8,7 +8,7 @@ If you find this repository useful, please consider **[citing](#citation)** and 
 
 Feel free to share this list with others! 🥳🥳🥳
 
-## Challenge
+## Workshop & Challenge
 
 - [CVPR 2024 Workshop & Challenge | OpenDriveLab](https://opendrivelab.com/challenge2024/#predictive_world_model) Track #4: Predictive World Model.
   > Serving as an abstract spatio-temporal representation of reality, the world model can predict future states based on the current state. The learning process of world models has the potential to elevate a pre-trained foundation model to the next level. Given vision-only inputs, the neural network outputs point clouds in the future to testify its predictive capability of the world.
@@ -31,32 +31,33 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ## 2024
 
-- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. (**ICLR 2024**) [[Paper](https://arxiv.org/abs/2311.01017)]
-- [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. (**ICLR 2024**) [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
-- [**Genie**] Genie: Generative Interactive Environments. (**Google DeepMind**) [[Paper](https://arxiv.org/abs/2402.15391)] [[Blog](https://sites.google.com/view/genie-2024/home)]
-- [**Sora**] Video generation models as world simulators. (**OpenAI**) [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
-- [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. (**Meta AI Research, FAIR**) [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
-- [**LWM**] World Model on Million-Length Video And Language With RingAttention. (2024.2, arxiv)  [[Paper](https://arxiv.org/abs/2402.08268)] [[Code](https://github.com/LargeWorldModel/LWM)]
-- Planning with an Ensemble of World Models. (OpenReview) [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
-- [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. (2024.1, arxiv) [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
+- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
+- [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**Genie**] Genie: Generative Interactive Environments. **`DeepMind`** [[Paper](https://arxiv.org/abs/2402.15391)] [[Blog](https://sites.google.com/view/genie-2024/home)]
+- [**Sora**] Video generation models as world simulators. **`OpenAI`** [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
+- [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. **`Meta AI`** [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
+- [**Think2Drive**] Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2) **`2024.2, arxiv`** [[Paper](https://arxiv.org/abs/2402.16720)]
+- [**LWM**] World Model on Million-Length Video And Language With RingAttention. **`2024.2, arxiv`**  [[Paper](https://arxiv.org/abs/2402.08268)] [[Code](https://github.com/LargeWorldModel/LWM)]
+- Planning with an Ensemble of World Models. **`OpenReview`** [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
+- [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. **`2024.1, arxiv`** [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
 
 ## 2023
 
-- [**TrafficBots**] TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. (**ICRA 2023**) [[Paper](https://arxiv.org/abs/2303.04116)] [[Code](https://github.com/zhejz/TrafficBots)]
-- [**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. (2023.12, arxiv) [[Paper](https://arxiv.org/abs/2312.17655)] [[Code](https://github.com/OpenDriveLab/ViDAR)]
-- [**WoVoGen**] WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. (2023.12, arxiv) [[Paper](https://arxiv.org/abs/2312.02934)] [[Code](https://github.com/fudan-zvg/WoVoGen)]
-- [**CTT**] Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.18307)]
-- [**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.17918)] [[Code](https://github.com/BraveGroup/Drive-WM)]
-- [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. (2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
+- [**TrafficBots**] TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. **`ICRA 2023`** [[Paper](https://arxiv.org/abs/2303.04116)] [[Code](https://github.com/zhejz/TrafficBots)]
+- [**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`2023.12, arxiv`** [[Paper](https://arxiv.org/abs/2312.17655)] [[Code](https://github.com/OpenDriveLab/ViDAR)]
+- [**WoVoGen**] WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. **`2023.12, arxiv`** [[Paper](https://arxiv.org/abs/2312.02934)] [[Code](https://github.com/fudan-zvg/WoVoGen)]
+- [**CTT**] Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.18307)]
+- [**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.17918)] [[Code](https://github.com/BraveGroup/Drive-WM)]
+- [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
 - [**MUVO**] MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations.(2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.11762)]
-- [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.17080)]
-- [**ADriver-I**] ADriver-I: A General World Model for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2311.13549)]
-- [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. (2023.9, arxiv) [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
-- [**UniWorld**] UniWorld: Autonomous Driving Pre-training via World Models. (2023.8, arxiv) [[Paper](https://arxiv.org/abs/2308.07234)] [[Code](https://github.com/chaytonmin/UniWorld)]
+- [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2309.17080)]
+- [**ADriver-I**] ADriver-I: A General World Model for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2311.13549)]
+- [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
+- [**UniWorld**] UniWorld: Autonomous Driving Pre-training via World Models. **`2023.8, arxiv`** [[Paper](https://arxiv.org/abs/2308.07234)] [[Code](https://github.com/chaytonmin/UniWorld)]
 
 ## 2022
 
-- [**MILE**] Model-Based Imitation Learning for Urban Driving. (**NeurIPS 2022**) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)] [[Code](https://github.com/wayveai/mile)]
-- Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation. (**ICRA 2022**) [[Paper](https://arxiv.org/abs/2205.03195)] 
-- Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving. (**IROS 2022**) [[Paper](https://arxiv.org/abs/2210.09539)]
+- [**MILE**] Model-Based Imitation Learning for Urban Driving. **`NeurIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)] [[Code](https://github.com/wayveai/mile)]
+- [**Symphony**] Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation. **`ICRA 2022`** [[Paper](https://arxiv.org/abs/2205.03195)] 
+- Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving. **`IROS 2022`** [[Paper](https://arxiv.org/abs/2210.09539)]
 
