@@ -31,9 +31,11 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ## 2024
 
+- [**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2312.17655)] [[Code](https://github.com/OpenDriveLab/ViDAR)]
+- [**Cam4DOCC**] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.17663)] [[Code](https://github.com/haomo-ai/Cam4DOcc)]
+- [**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.17918)] [[Code](https://github.com/BraveGroup/Drive-WM)]
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
-- [**Cam4DOCC**] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.17663)] [[Code](https://github.com/haomo-ai/Cam4DOcc)]
 - [**Genie**] Genie: Generative Interactive Environments. **`DeepMind`** [[Paper](https://arxiv.org/abs/2402.15391)] [[Blog](https://sites.google.com/view/genie-2024/home)]
 - [**Sora**] Video generation models as world simulators. **`OpenAI`** [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
 - [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. **`Meta AI`** [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
@@ -45,10 +47,8 @@ Feel free to share this list with others! 🥳🥳🥳
 ## 2023
 
 - [**TrafficBots**] TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. **`ICRA 2023`** [[Paper](https://arxiv.org/abs/2303.04116)] [[Code](https://github.com/zhejz/TrafficBots)]
-- [**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`2023.12, arxiv`** [[Paper](https://arxiv.org/abs/2312.17655)] [[Code](https://github.com/OpenDriveLab/ViDAR)]
 - [**WoVoGen**] WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. **`2023.12, arxiv`** [[Paper](https://arxiv.org/abs/2312.02934)] [[Code](https://github.com/fudan-zvg/WoVoGen)]
 - [**CTT**] Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.18307)]
-- [**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.17918)] [[Code](https://github.com/BraveGroup/Drive-WM)]
 - [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
 - [**MUVO**] MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations.(2023.11, arxiv) [[Paper](https://arxiv.org/abs/2311.11762)]
 - [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2309.17080)]
