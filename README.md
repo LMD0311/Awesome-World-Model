@@ -45,6 +45,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**Panacea**] Panacea: Panoramic and Controllable Video Generation for Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.16813)] [[Code](https://panacea-ad.github.io/)]
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**LidarDM**] LidarDM: Generative LiDAR Simulation in a Generated World. **`2024.4, arxiv`** [[Paper](https://arxiv.org/abs/2404.02903)] [[Code](https://github.com/vzyrianov/lidardm)]
 - [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model.  **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.09631)]
 - [**DriveDreamer-2**] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.06845)] [[Code](https://drivedreamer2.github.io/)]
 - [**Think2Drive**] Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving. **`2024.2, arxiv`** [[Paper](https://arxiv.org/abs/2402.16720)]
