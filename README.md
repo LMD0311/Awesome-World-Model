@@ -57,10 +57,12 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**CTT**] Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.18307)]
 - [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
 - [**MUVO**] MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations. **`2023.11, arxiv`** [[Paper](https://arxiv.org/abs/2311.11762)]
+- [**DrivingDiffusion**] DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model. **`2023.10, arxiv`** [[Paper](https://arxiv.org/abs/2310.07771)] [[Code](https://github.com/shalfun/DrivingDiffusion)]
 - [**GAIA-1**] GAIA-1: A Generative World Model for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2309.17080)]
 - [**ADriver-I**] ADriver-I: A General World Model for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2311.13549)]
 - [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. **`2023.9, arxiv`** [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
 - [**UniWorld**] UniWorld: Autonomous Driving Pre-training via World Models. **`2023.8, arxiv`** [[Paper](https://arxiv.org/abs/2308.07234)] [[Code](https://github.com/chaytonmin/UniWorld)]
+
 
 ## 2022
 
