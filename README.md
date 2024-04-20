@@ -46,6 +46,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MagicDrive**] MagicDrive: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**RoboDreamer**] RoboDreamer: Learning Compositional World Models for Robot Imagination. **`2024.4, arxiv`** [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
 - [**LidarDM**] LidarDM: Generative LiDAR Simulation in a Generated World. **`2024.4, arxiv`** [[Paper](https://arxiv.org/abs/2404.02903)] [[Code](https://github.com/vzyrianov/lidardm)]
 - [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model.  **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.09631)]
 - [**DriveDreamer-2**] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.06845)] [[Code](https://drivedreamer2.github.io/)]
