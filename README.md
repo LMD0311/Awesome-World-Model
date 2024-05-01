@@ -80,7 +80,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**Sora**] Video generation models as world simulators. **`OpenAI`** [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
 - [**IWM**] Learning and Leveraging World Models in Visual Representation Learning. **`Meta AI`** [[Paper](https://arxiv.org/abs/2403.00504)] 
 - [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. **`Meta AI`** [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
-- [**Newton **] Newton™ – a first-of-its-kind foundation model for understanding the physical world. **`Archetype AI`** [[Blog](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)]
+- [**Newton**] Newton™ – a first-of-its-kind foundation model for understanding the physical world. **`Archetype AI`** [[Blog](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)]
 - [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - [**Compete and Compose**] Compete and Compose: Learning Independent Mechanisms for Modular World Models. **`2024.4, arxiv`**  [[Paper](https://arxiv.org/abs/2404.15109)]
 - [**MagicTime**] MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators. **`2024.4, arxiv`**  [[Paper](https://arxiv.org/abs/2404.05014)] [[Code](https://github.com/PKU-YuanGroup/MagicTime)]
