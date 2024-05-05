@@ -2,7 +2,7 @@
 
 Collect some World Models (for Autonomous Driving) papers. 
 
-If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
+If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn) / [*Qi Wang*](mailto:qiwang067@163.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
 If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
 
@@ -91,23 +91,22 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. **`2024.1, arxiv`** [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)]
 
 ### 2023
-* [**IRIS**] Transformers are Sample Efficient World Models. **`ICLR 2023 Oral`** [[Paper](https://arxiv.org/pdf/2209.00588)] [[Torch Code](https://github.com/eloialonso/iris)]
-* [**STORM**] STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning. **`NIPS 2023`** [[Paper](https://arxiv.org/pdf/2310.09615)] [[Torch Code](https://github.com/weipu-zhang/STORM)]
-* [**TWM**] Transformer-based World Models Are Happy with 100k Interactions. **`ICLR 2023`** [[Paper](https://arxiv.org/pdf/2303.07109)] [[Torch Code](https://github.com/jrobine/twm)]
-* [**Dynalang**] Learning to Model the World with Language. **`arXiv 2023.8`** [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
-* [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`arXiv 2023.5`** [[Paper](https://arxiv.org/pdf/2305.15260)]
-
-* [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
+- [**IRIS**] Transformers are Sample Efficient World Models. **`ICLR 2023 Oral`** [[Paper](https://arxiv.org/pdf/2209.00588)] [[Torch Code](https://github.com/eloialonso/iris)]
+- [**STORM**] STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning. **`NIPS 2023`** [[Paper](https://arxiv.org/pdf/2310.09615)] [[Torch Code](https://github.com/weipu-zhang/STORM)]
+- [**TWM**] Transformer-based World Models Are Happy with 100k Interactions. **`ICLR 2023`** [[Paper](https://arxiv.org/pdf/2303.07109)] [[Torch Code](https://github.com/jrobine/twm)]
+- [**Dynalang**] Learning to Model the World with Language. **`arXiv 2023.8`** [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
+- [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`arXiv 2023.5`** [[Paper](https://arxiv.org/pdf/2305.15260)]
+- [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[JAX Code](https://github.com/danijar/dreamerv3)] [[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 
 ### 2021
-* [**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 2021`** [[Paper](https://arxiv.org/pdf/2010.02193)][[TF Code](https://github.com/danijar/dreamerv2)][[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
+- [**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 2021`** [[Paper](https://arxiv.org/pdf/2010.02193)] [[TF Code](https://github.com/danijar/dreamerv2)] [[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
 
 ### 2022
-* Deep Hierarchical Planning from Pixels. **`NIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
+- Deep Hierarchical Planning from Pixels. **`NIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)] [[TF Code](https://github.com/danijar/director)]
 ### 2020
-* [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination. **`ICLR 2020`** [[Paper](https://arxiv.org/pdf/1912.01603)][[TF Code](https://github.com/danijar/dreamer)][[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
-* [**Plan2Explore**] Planning to Explore via Self-Supervised World Models. **`ICML 2020`** [[Paper](https://arxiv.org/pdf/2005.05960)]
-[[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
+- [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination. **`ICLR 2020`** [[Paper](https://arxiv.org/pdf/1912.01603)] [[TF Code](https://github.com/danijar/dreamer)] [[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
+- [**Plan2Explore**] Planning to Explore via Self-Supervised World Models. **`ICML 2020`** [[Paper](https://arxiv.org/pdf/2005.05960)]
+ [[TF Code](https://github.com/ramanans1/plan2explore)] [[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
 
 ### 2018
 * World Models. **`NIPS 2018 Oral`** [[Paper](https://arxiv.org/pdf/1803.10122)]
