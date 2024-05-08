@@ -99,8 +99,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`arXiv 2023.5`** [[Paper](https://arxiv.org/pdf/2305.15260)]
 - [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[JAX Code](https://github.com/danijar/dreamerv3)] [[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ### 2022
-- [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations
-. **`ICML 2022`** [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)] [[TF Code](https://github.com/fdeng18/dreamer-pro)]
+- [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. **`ICML 2022`** [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)] [[TF Code](https://github.com/fdeng18/dreamer-pro)]
 - Deep Hierarchical Planning from Pixels. **`NIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)] [[TF Code](https://github.com/danijar/director)]
 ### 2021
 - [**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 2021`** [[Paper](https://arxiv.org/pdf/2010.02193)] [[TF Code](https://github.com/danijar/dreamerv2)] [[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
