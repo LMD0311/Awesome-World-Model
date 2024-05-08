@@ -41,7 +41,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**GenAD**] Generalized Predictive Model for Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2403.09630)] [[Data](https://github.com/OpenDriveLab/DriveAGI)]
 - [**Cam4DOCC**] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.17663)] [[Code](https://github.com/haomo-ai/Cam4DOcc)]
 - [**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.17918)] [[Code](https://github.com/BraveGroup/Drive-WM)]
-- [**DriveWorld**] DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving. **`CVPR 2024` **[[Paper](https://arxiv.org/abs/2405.04390)]
+- [**DriveWorld**] DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2405.04390)]
 - [**Panacea**] Panacea: Panoramic and Controllable Video Generation for Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2311.16813)] [[Code](https://panacea-ad.github.io/)]
 - [**MagicDrive**] MagicDrive: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - [**Copilot4D**] Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
