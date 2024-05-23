@@ -80,13 +80,14 @@ Feel free to share this list with others! 🥳🥳🥳
 ### 2024
 
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
+- [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09631)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)]
 - [**Genie**] Genie: Generative Interactive Environments. **`DeepMind`** [[Paper](https://arxiv.org/abs/2402.15391)] [[Blog](https://sites.google.com/view/genie-2024/home)]
 - [**Sora**] Video generation models as world simulators. **`OpenAI`** [[Technical report](https://openai.com/research/video-generation-models-as-world-simulators)]
 - [**IWM**] Learning and Leveraging World Models in Visual Representation Learning. **`Meta AI`** [[Paper](https://arxiv.org/abs/2403.00504)] 
 - [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. **`Meta AI`** [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
 - [**Newton**] Newton™ – a first-of-its-kind foundation model for understanding the physical world. **`Archetype AI`** [[Blog](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)]
-- [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
+- [**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`arXiv 2024.5`**  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
 - [**Compete and Compose**] Compete and Compose: Learning Independent Mechanisms for Modular World Models. **`arXiv 2024.4`**  [[Paper](https://arxiv.org/abs/2404.15109)]
 - [**MagicTime**] MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators. **`arXiv 2024.4`**  [[Paper](https://arxiv.org/abs/2404.05014)] [[Code](https://github.com/PKU-YuanGroup/MagicTime)]
 - [**Dreaming of Many Worlds**] Dreaming of Many Worlds: Learning Contextual World Models Aids Zero-Shot Generalization. **`arXiv 2024.3`**  [[Paper](https://arxiv.org/abs/2403.10967)] [[Code](https://github.com/sai-prasanna/dreaming_of_many_worlds)]
