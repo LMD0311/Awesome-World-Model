@@ -90,6 +90,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**IWM**] Learning and Leveraging World Models in Visual Representation Learning. **`Meta AI`** [[Paper](https://arxiv.org/abs/2403.00504)] 
 - [**V-JEPA**] V-JEPA: Video Joint Embedding Predictive Architecture. **`Meta AI`** [[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] [[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] [[Code](https://github.com/facebookresearch/jepa)]
 - [**Newton**] Newton™ – a first-of-its-kind foundation model for understanding the physical world. **`Archetype AI`** [[Blog](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)]
+- [**BWArea Model**] BWArea Model: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.17039)]
 - [**Pandora**] Pandora: Towards General World Model with Natural Language Actions and Video States. [[Paper](https://world-model.maitrix.org/assets/pandora.pdf)] [[Code](https://github.com/maitrix-org/Pandora)]
 - [**WKM**] Agent Planning with World Knowledge Model. **`arXiv 2024.5`**  [[Paper](https://arxiv.org/abs/2405.14205)] [[Code](https://github.com/zjunlp/WKM)]
 - [**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`arXiv 2024.5`**  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
