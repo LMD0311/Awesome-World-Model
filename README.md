@@ -112,6 +112,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ### 2022
 - [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. **`ICML 2022`** [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)] [[TF Code](https://github.com/fdeng18/dreamer-pro)]
 - Deep Hierarchical Planning from Pixels. **`NIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)] [[TF Code](https://github.com/danijar/director)]
+- [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. **`NIPS 2022 Spotlight`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
 ### 2021
 - [**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 2021`** [[Paper](https://arxiv.org/pdf/2010.02193)] [[TF Code](https://github.com/danijar/dreamerv2)] [[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
 ### 2020
