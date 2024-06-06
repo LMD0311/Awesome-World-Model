@@ -82,6 +82,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ## Other World Model Paper
 
 ### 2024
+- [**TD-MPC2**] TD-MPC2: Scalable, Robust World Models for Continuous Control. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)]
 - [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2311.01450)]
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
@@ -113,6 +114,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`arXiv 2023.5`** [[Paper](https://arxiv.org/pdf/2305.15260)]
 - [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[JAX Code](https://github.com/danijar/dreamerv3)] [[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ### 2022
+- [**TD-MPC**] Temporal Difference Learning for Model Predictive Control. **`ICML 2022`** [[Paper](https://arxiv.org/pdf/2203.04955)][[Torch Code](https://github.com/nicklashansen/tdmpc)]
 - [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. **`ICML 2022`** [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)] [[TF Code](https://github.com/fdeng18/dreamer-pro)]
 - [**DayDreamer**] DayDreamer: World Models for Physical Robot Learning. **`CoRL 2022`** [[Paper](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)] [[TF Code](https://github.com/danijar/daydreamer)]
 - Deep Hierarchical Planning from Pixels. **`NIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)] [[TF Code](https://github.com/danijar/director)]
