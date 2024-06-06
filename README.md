@@ -54,6 +54,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DriveSim**] Probing Multimodal LLMs as World Models for Driving. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.05956)] [[Code](https://github.com/sreeramsa/DriveSim)]
 - [**RoboDreamer**] RoboDreamer: Learning Compositional World Models for Robot Imagination. **`arXiv 2024.4`** [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
 - [**LidarDM**] LidarDM: Generative LiDAR Simulation in a Generated World. **`arXiv 2024.4`** [[Paper](https://arxiv.org/abs/2404.02903)] [[Code](https://github.com/vzyrianov/lidardm)]
+- [**SubjectDrive**] SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control. **`arXiv 2024.3`** [[Paper](https://arxiv.org/abs/2403.19438)] [[Project](https://subjectdrive.github.io/)]
 - [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model.  **`arXiv 2024.3`** [[Paper](https://arxiv.org/abs/2403.09631)]
 - [**DriveDreamer-2**] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation. **`arXiv 2024.3`** [[Paper](https://arxiv.org/abs/2403.06845)] [[Code](https://drivedreamer2.github.io/)]
 - [**Think2Drive**] Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving. **`arXiv 2024.2`** [[Paper](https://arxiv.org/abs/2402.16720)]
