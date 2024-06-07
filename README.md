@@ -47,6 +47,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MagicDrive**] MagicDrive: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - [**Copilot4D**] Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**Delphi**] Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.01349)] [[Code](https://github.com/westlake-autolab/Delphi)]
 - [**OccSora**] OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.20337)] [[Code](https://github.com/wzzheng/OccSora)]
 - [**Vista**] Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.17398)] [[Code](https://github.com/OpenDriveLab/Vista)]
 - [**MagicDrive3D**] MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.14475)] [[Code](https://gaoruiyuan.com/magicdrive3d/)]
