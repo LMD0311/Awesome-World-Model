@@ -90,6 +90,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09631)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)]
+- [**EBWM**] Cognitively Inspired Energy-Based World Models. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.08862)]
 - [**LLM-Sim**] Can Language Models Serve as Text-Based World Simulators? **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.06485)] [[Code](https://github.com/cognitiveailab/GPT-simulator)]
 - Evaluating the World Model Implicit in a Generative Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.03689)] [[Code](https://github.com/keyonvafa/world-model-evaluation)]
 - Transformers and Slot Encoding for Sample Efficient Physical World Modelling. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.20180)] [[Code](https://github.com/torchipeppo/transformers-and-slot-encoding-for-wm)]
