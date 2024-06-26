@@ -131,8 +131,10 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DayDreamer**] DayDreamer: World Models for Physical Robot Learning. **`CoRL 2022`** [[Paper](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)] [[TF Code](https://github.com/danijar/daydreamer)]
 - Deep Hierarchical Planning from Pixels. **`NIPS 2022`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)] [[TF Code](https://github.com/danijar/director)]
 - [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. **`NIPS 2022 Spotlight`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)] [[Torch Code](https://github.com/panmt/Iso-Dream)]
+- [**DreamingV2**] DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction. **`arXiv 2022`** [[Paper](https://arxiv.org/pdf/2203.00494)] 
 ### 2021
 - [**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 2021`** [[Paper](https://arxiv.org/pdf/2010.02193)] [[TF Code](https://github.com/danijar/dreamerv2)] [[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
+- [**Dreaming**] Dreaming: Model-based Reinforcement Learning by Latent Imagination without Reconstruction. **`ICRA 2021`** [[Paper](https://arxiv.org/pdf/2007.14535)]
 ### 2020
 - [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination. **`ICLR 2020`** [[Paper](https://arxiv.org/pdf/1912.01603)] [[TF Code](https://github.com/danijar/dreamer)] [[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
 - [**Plan2Explore**] Planning to Explore via Self-Supervised World Models. **`ICML 2020`** [[Paper](https://arxiv.org/pdf/2005.05960)] [[TF Code](https://github.com/ramanans1/plan2explore)] [[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
