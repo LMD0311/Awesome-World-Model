@@ -87,6 +87,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ## Other World Model Paper
 
 ### 2024
+- [**Δ-IRIS**] Efficient World Models with Context-Aware Tokenization. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2406.19320)] [[Code](https://github.com/vmicheli/delta-iris)]
 - [**TD-MPC2**] TD-MPC2: Scalable, Robust World Models for Continuous Control. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)]
 - [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2311.01450)]
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
