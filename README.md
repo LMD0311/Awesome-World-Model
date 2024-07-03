@@ -54,6 +54,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
 - [**UnO**] UnO: Unsupervised Occupancy Fields for Perception and Forecasting. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.08691)] [[Code](https://waabi.ai/research/uno)]
 - [**SimGen**] SimGen: Simulator-conditioned Driving Scene Generation. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.09386)] [[Code](https://metadriverse.github.io/simgen/)]
+- [**AdaptiveDriver**] Planning with Adaptive World Models for Autonomous Driving. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.10714)] [[Code](https://arunbalajeev.github.io/world_models_planning/world_model_paper.html)]
 - [**LAW**] Enhancing End-to-End Autonomous Driving with Latent World Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.08481)] [[Code](https://github.com/BraveGroup/LAW)]
 - [**Delphi**] Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.01349)] [[Code](https://github.com/westlake-autolab/Delphi)]
 - [**OccSora**] OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.20337)] [[Code](https://github.com/wzzheng/OccSora)]
