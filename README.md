@@ -100,8 +100,6 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2311.01450)]
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
-- [**HarmonyDream**] HarmonyDream: Task Harmonization Inside World Models. **`ICML 2024`** [[Paper](https://arxiv.org/pdf/2310.00344)] [[JAX Code](https://github.com/thuml/HarmonyDream)]
-- [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09631)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)]
 - [**GenRL**] Multimodal foundation world models for generalist embodied agents. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.18043)] [[Code](https://github.com/mazpie/genrl)]
 - Cognitive Map for Language Models: Optimal Planning via Verbally Representing the World Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.15275)]
 - [**CityBench**] CityBench: Evaluating the Capabilities of Large Language Model as World Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.13945)] [[Code](https://github.com/tsinghua-fib-lab/CityBench)]
