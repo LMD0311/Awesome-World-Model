@@ -52,6 +52,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MagicDrive**] MagicDrive: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - [**Copilot4D**] Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**TOKEN**] Tokenize the World into Object-level Knowledge to Address Long-tail Events in Autonomous Driving. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.00959)]
 - [**UnO**] UnO: Unsupervised Occupancy Fields for Perception and Forecasting. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.08691)] [[Code](https://waabi.ai/research/uno)]
 - [**SimGen**] SimGen: Simulator-conditioned Driving Scene Generation. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.09386)] [[Code](https://metadriverse.github.io/simgen/)]
 - [**AdaptiveDriver**] Planning with Adaptive World Models for Autonomous Driving. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.10714)] [[Code](https://arunbalajeev.github.io/world_models_planning/world_model_paper.html)]
