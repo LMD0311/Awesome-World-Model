@@ -107,6 +107,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**PWM**] PWM: Policy Learning with Large World Models. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.02466)] [[Code](https://www.imgeorgiev.com/pwm/)]
 - [**Predicting vs. Acting**] Predicting vs. Acting: A Trade-off Between World Modeling & Agent Modeling. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.02446)]
 - [**GenRL**] Multimodal foundation world models for generalist embodied agents. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.18043)] [[Code](https://github.com/mazpie/genrl)]
+- [**DLLM**] World Models with Hints of Large Language Models for Goal Achieving. **`arXiv 2024.6`** [[Paper](http://arxiv.org/pdf/2406.07381)]
 - Cognitive Map for Language Models: Optimal Planning via Verbally Representing the World Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.15275)]
 - [**CityBench**] CityBench: Evaluating the Capabilities of Large Language Model as World Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.13945)] [[Code](https://github.com/tsinghua-fib-lab/CityBench)]
 - [**CoDreamer**] CoDreamer: Communication-Based Decentralised World Models. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.13600)]
