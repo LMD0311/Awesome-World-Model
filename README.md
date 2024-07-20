@@ -42,6 +42,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
 - [**GenAD**] GenAD: Generative End-to-End Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2402.11502)] [[Code](https://github.com/wzzheng/GenAD)]
 - [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
+- [**MARL-CCE**] Modelling-Competitive-Behaviors-in-Autonomous-Driving-Under-Generative-World-Model. **`ECCV 2024`** [[Code](https://github.com/qiaoguanren/MARL-CCE)]
 - [**3D-VLA**] 3D-VLA: A 3D Vision-Language-Action Generative World Model.  **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09631)]
 - [**RoboDreamer**] RoboDreamer: Learning Compositional World Models for Robot Imagination. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
 - [**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2312.17655)] [[Code](https://github.com/OpenDriveLab/ViDAR)]
