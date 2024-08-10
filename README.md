@@ -58,6 +58,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**BEVWorld**] BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.05679)] [[Code](https://github.com/zympsyche/BevWorld)]
 - [**TOKEN**] Tokenize the World into Object-level Knowledge to Address Long-tail Events in Autonomous Driving. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.00959)]
 - [**UnO**] UnO: Unsupervised Occupancy Fields for Perception and Forecasting. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.08691)] [[Code](https://waabi.ai/research/uno)]
+- [**UMAD**] UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.06370)]
 - [**SimGen**] SimGen: Simulator-conditioned Driving Scene Generation. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.09386)] [[Code](https://metadriverse.github.io/simgen/)]
 - [**AdaptiveDriver**] Planning with Adaptive World Models for Autonomous Driving. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.10714)] [[Code](https://arunbalajeev.github.io/world_models_planning/world_model_paper.html)]
 - [**LAW**] Enhancing End-to-End Autonomous Driving with Latent World Model. **`arXiv 2024.6`** [[Paper](https://arxiv.org/abs/2406.08481)] [[Code](https://github.com/BraveGroup/LAW)]
