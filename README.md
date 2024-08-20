@@ -107,6 +107,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2311.01450)]
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
+- [**MoReFree**] World Models Increase Autonomy in Reinforcement Learning. **`arXiv 2024.8`** [[Paper](https://arxiv.org/abs/2408.09807)] [[Project](https://sites.google.com/view/morefree)]
 - [**UrbanWorld**] UrbanWorld: An Urban World Model for 3D City Generation. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.119656)]
 - [**PWM**] PWM: Policy Learning with Large World Models. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.02466)] [[Code](https://www.imgeorgiev.com/pwm/)]
 - [**Predicting vs. Acting**] Predicting vs. Acting: A Trade-off Between World Modeling & Agent Modeling. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.02446)]
