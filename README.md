@@ -95,6 +95,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ## Other World Model Paper
 
 ### 2024
+- [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 2024 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
 - [**LLM-Sim**] Can Language Models Serve as Text-Based World Simulators? **`ACL`** [[Paper](https://arxiv.org/abs/2406.06485)] [[Code](https://github.com/cognitiveailab/GPT-simulator)]
 - [**Δ-IRIS**] Efficient World Models with Context-Aware Tokenization. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2406.19320)] [[Code](https://github.com/vmicheli/delta-iris)]
 - [**AD3**] AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09976)]
