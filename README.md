@@ -56,6 +56,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MagicDrive**] MagicDrive: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - [**Copilot4D**] Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**RenderWorld**] RenderWorld: World Model with Self-Supervised 3D Label. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.11356)]
 - [**OccLLaMA**] OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.03272)]
 - [**DriveGenVLM**] DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving. **`arXiv 2024.8`** [[Paper](https://arxiv.org/abs/2408.16647)]
 - [**Drive-OccWorld**] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving. **`arXiv 2024.8`** [[Paper](https://arxiv.org/abs/2408.14197)]
