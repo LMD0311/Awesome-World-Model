@@ -114,6 +114,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2311.01450)]
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - [**MAMBA**] MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
+- [**GLIMO**] Grounding Large Language Models In Embodied Environment With Imperfect World Models. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.02664)]
 - [**WMP**] World Model-based Perception for Visual Legged Locomotion. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.16784)] [[Code](https://wmp-loco.github.io/)]
 - [**OSWM**] One-shot World Models Using a Transformer Trained on a Synthetic Prior. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.14084)]
 - [**R-AIF**] R-AIF: Solving Sparse-Reward Robotic Tasks from Pixels with Active Inference and World Models. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.14216)]
