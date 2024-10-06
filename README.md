@@ -102,6 +102,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ## Other World Model Paper
 
 ### 2024
+- [**SMAC**] Grounded Answers for Multi-agent Decision-making Problem through Generative World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.02664)]
 - [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 2024 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
 - [**LLM-Sim**] Can Language Models Serve as Text-Based World Simulators? **`ACL`** [[Paper](https://arxiv.org/abs/2406.06485)] [[Code](https://github.com/cognitiveailab/GPT-simulator)]
 - [**Δ-IRIS**] Efficient World Models with Context-Aware Tokenization. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2406.19320)] [[Code](https://github.com/vmicheli/delta-iris)]
