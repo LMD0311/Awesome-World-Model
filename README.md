@@ -103,6 +103,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ### 2024
 - [**SMAC**] Grounded Answers for Multi-agent Decision-making Problem through Generative World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.02664)]
+- [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2305.15260)]
 - [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 2024 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
 - [**LLM-Sim**] Can Language Models Serve as Text-Based World Simulators? **`ACL`** [[Paper](https://arxiv.org/abs/2406.06485)] [[Code](https://github.com/cognitiveailab/GPT-simulator)]
 - [**Δ-IRIS**] Efficient World Models with Context-Aware Tokenization. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2406.19320)] [[Code](https://github.com/vmicheli/delta-iris)]
@@ -159,7 +160,6 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**STORM**] STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning. **`NIPS 2023`** [[Paper](https://arxiv.org/pdf/2310.09615)] [[Torch Code](https://github.com/weipu-zhang/STORM)]
 - [**TWM**] Transformer-based World Models Are Happy with 100k Interactions. **`ICLR 2023`** [[Paper](https://arxiv.org/pdf/2303.07109)] [[Torch Code](https://github.com/jrobine/twm)]
 - [**Dynalang**] Learning to Model the World with Language. **`arXiv 2023.8`** [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
-- [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`arXiv 2023.5`** [[Paper](https://arxiv.org/pdf/2305.15260)]
 - [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[JAX Code](https://github.com/danijar/dreamerv3)] [[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ### 2022
 - [**TD-MPC**] Temporal Difference Learning for Model Predictive Control. **`ICML 2022`** [[Paper](https://arxiv.org/pdf/2203.04955)][[Torch Code](https://github.com/nicklashansen/tdmpc)]
