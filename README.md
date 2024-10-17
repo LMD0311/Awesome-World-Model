@@ -58,6 +58,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MagicDrive**] MagicDrive: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - [**Copilot4D**] Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - [**SafeDreamer**] SafeDreamer: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- [**DOME**] DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.10429)][[Project Page](https://gusongen.github.io/DOME)]
 - [**SSR**] Does End-to-End Autonomous Driving Really Need Perception Tasks? **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
 - Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.16663)]
 - [**LatentDriver**] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.15730)] [[Code](https://github.com/Sephirex-X/LatentDriver)]
