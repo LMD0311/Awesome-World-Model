@@ -45,6 +45,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**DriveDreamer**] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
 - [**GenAD**] GenAD: Generative End-to-End Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2402.11502)] [[Code](https://github.com/wzzheng/GenAD)]
 - [**OccWorld**] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
+- [**NeMo**] Neural Volumetric World Models for Autonomous Driving. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)]
 - [**CarFormer**] CarFormer: Self-Driving with Learned Object-Centric Representations. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2407.15843)] [[Code](https://kuis-ai.github.io/CarFormer/)]
 - [**MARL-CCE**] Modelling-Competitive-Behaviors-in-Autonomous-Driving-Under-Generative-World-Model. **`ECCV 2024`** [[Code](https://github.com/qiaoguanren/MARL-CCE)]
 - [**DrivingDiffusion**] DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2310.07771)] [[Code](https://github.com/shalfun/DrivingDiffusion)]
