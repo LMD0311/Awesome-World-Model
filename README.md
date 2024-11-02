@@ -125,6 +125,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - **DreamSmooth**: Improving Model-based Reinforcement Learning via Reward Smoothing. **`ICLR 2024`** [[Paper](https://arxiv.org/pdf/2311.01450)]
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - **MAMBA**: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
+- Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
 - **VisualPredicator**: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.23156)] 
 - [**LLMCWM**] Language Agents Meet Causality -- Bridging LLMs and Causal World Models. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.19923)] [[Code](https://github.com/j0hngou/LLMCWM/)]
 - Reward-free World Models for Online Imitation Learning. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.14081)]
