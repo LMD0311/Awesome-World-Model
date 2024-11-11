@@ -32,6 +32,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ### Survey
 
 - A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+- Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.02914)]
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
 - Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.03520)] [[Code](https://github.com/GigaAI-research/General-World-Models-Survey)]
 - World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
