@@ -128,6 +128,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
 - **WHALE**: Towards Generalizable and Scalable World Models for Embodied Decision-making. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.05619)]
 - **DINO-WM**: World Models on Pre-trained Visual Features enable Zero-shot Planning. **`arXiv 2024.11`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2411.04983)]
+- Scaling Laws for Pre-training Agents and World Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.04434)]
 - **EVA**: An Embodied World Model for Future Video Anticipation. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.15461)] 
 - **VisualPredicator**: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.23156)] 
 - [**LLMCWM**] Language Agents Meet Causality -- Bridging LLMs and Causal World Models. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.19923)] [[Code](https://github.com/j0hngou/LLMCWM/)]
