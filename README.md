@@ -111,6 +111,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2305.15260)]
 - **PIVOT-R**: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2410.10394)]
 - [**MUN**]Learning World Models for Unconstrained Goal Navigation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2411.02446)] [[Code](https://github.com/RU-Automated-Reasoning-Group/MUN)]
+- **Adaptive World Models**: Learning Behaviors by Latent Imagination Under Non-Stationarity. **`NeurIPSW 2024`** [[Paper](https://arxiv.org/abs/2411.01342)]
 - **PreLAR**: World Model Pre-training with Learnable Action Representation. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)] [[Code](https://github.com/zhanglixuan0720/PreLAR)]
 - [**CWM**] Understanding Physical Dynamics with Counterfactual World Modeling. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03523.pdf)] [[Code](https://neuroailab.github.io/cwm-physics/)]
 - [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 2024 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
