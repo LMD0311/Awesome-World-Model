@@ -130,6 +130,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - **MAMBA**: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
+- [**WebDreamer**] Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents. [[Paper](https://arxiv.org/abs/2411.06559)] [[Code](https://github.com/OSU-NLP-Group/WebDreamer)]
 - **WHALE**: Towards Generalizable and Scalable World Models for Embodied Decision-making. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.05619)]
 - **DINO-WM**: World Models on Pre-trained Visual Features enable Zero-shot Planning. **`arXiv 2024.11`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2411.04983)]
 - Scaling Laws for Pre-training Agents and World Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.04434)]
