@@ -116,6 +116,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**MUN**]Learning World Models for Unconstrained Goal Navigation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2411.02446)] [[Code](https://github.com/RU-Automated-Reasoning-Group/MUN)]
 - **VidMan**: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation. **`NeurIPS 24`** [[Paper](https://arxiv.org/abs/2411.09153)]
 - **Adaptive World Models**: Learning Behaviors by Latent Imagination Under Non-Stationarity. **`NeurIPSW 2024`** [[Paper](https://arxiv.org/abs/2411.01342)]
+- Emergence of Implicit World Models from Mortal Agents. **`NeurIPSW 2024`** [[Paper](https://arxiv.org/abs/2411.12304)]
 - **PreLAR**: World Model Pre-training with Learnable Action Representation. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)] [[Code](https://github.com/zhanglixuan0720/PreLAR)]
 - [**CWM**] Understanding Physical Dynamics with Counterfactual World Modeling. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03523.pdf)] [[Code](https://neuroailab.github.io/cwm-physics/)]
 - [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 2024 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
