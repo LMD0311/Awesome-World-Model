@@ -63,6 +63,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - **MagicDrive**: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - **Copilot4D**: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - **SafeDreamer**: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- **Imagine-2-Drive**: High-Fidelity World Modeling in CARLA for Autonomous Vehicles. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
 - **WorldSimBench**: Towards Video Generation Models as World Simulator. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.18072)] [[Project Page](https://iranqin.github.io/WorldSimBench.github.io/)]
 - **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 - **DOME**: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.10429)] [[Project Page](https://gusongen.github.io/DOME)]
