@@ -64,6 +64,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - **MagicDrive**: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - **Copilot4D**: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - **SafeDreamer**: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- **InfinityDrive**: Breaking Time Limits in Driving World Models. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.01522)] [[Project Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]
 - **ReconDreamer**: Crafting World Models for Driving Scene Reconstruction via Online Restoration. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.19548)] [[Code](https://github.com/GigaAI-research/ReconDreamer)]
 - Generating Out-Of-Distribution Scenarios Using Language Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.16554)]
 - **Imagine-2-Drive**: High-Fidelity World Modeling in CARLA for Autonomous Vehicles. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
