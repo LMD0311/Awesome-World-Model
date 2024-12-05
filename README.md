@@ -139,6 +139,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - **MAMBA**: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
+- **Genie 2**: A large-scale foundation world model.  **`2024.12`** **`Google DeepMind`** [[Blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 - [**NWM**] Navigation World Models.  **`arXiv 2024.12`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - **The Matrix**: Infinite-Horizon World Generation with Real-Time Moving Control.  **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.03568)] [[Project](https://thematrix1999.github.io/)]
 - **Motion Prompting**: Controlling Video Generation with Motion Trajectories.  **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.02700)] [[Project](https://motion-prompting.github.io/)]
