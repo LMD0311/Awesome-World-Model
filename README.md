@@ -140,6 +140,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - **MAMBA**: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
 - [**NWM**] Navigation World Models.  **`arXiv 2024.12`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
+- **The Matrix**: Infinite-Horizon World Generation with Real-Time Moving Control.  **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.03568)] [[Project](https://thematrix1999.github.io/)]
 - **Motion Prompting**: Controlling Video Generation with Motion Trajectories.  **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.02700)] [[Project](https://motion-prompting.github.io/)]
 - Generative World Explorer. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.11844)] [[Project](https://generative-world-explorer.github.io/)]
 - [**WebDreamer**] Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.06559)] [[Code](https://github.com/OSU-NLP-Group/WebDreamer)]
