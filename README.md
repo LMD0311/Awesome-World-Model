@@ -116,7 +116,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ### 2024
 - [**SMAC**] Grounded Answers for Multi-agent Decision-making Problem through Generative World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.02664)]
-- [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2305.15260)]
+- [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2305.15260)] [[Website](https://qiwang067.github.io/coworld)] [[Torch Code](https://github.com/qiwang067/CoWorld)]
 - [**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`NeurIPS 2024`**  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
 - **PIVOT-R**: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2410.10394)]
 - [**MUN**]Learning World Models for Unconstrained Goal Navigation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2411.02446)] [[Code](https://github.com/RU-Automated-Reasoning-Group/MUN)]
