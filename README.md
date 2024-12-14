@@ -117,6 +117,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ### 2024
 - [**SMAC**] Grounded Answers for Multi-agent Decision-making Problem through Generative World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.02664)]
 - [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2305.15260)]
+- [**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`NeurIPS 2024`**  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
 - **PIVOT-R**: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2410.10394)]
 - [**MUN**]Learning World Models for Unconstrained Goal Navigation. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2411.02446)] [[Code](https://github.com/RU-Automated-Reasoning-Group/MUN)]
 - **VidMan**: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation. **`NeurIPS 24`** [[Paper](https://arxiv.org/abs/2411.09153)]
@@ -180,7 +181,6 @@ Feel free to share this list with others! 🥳🥳🥳
 - **BWArea Model**: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.17039)]
 - **Pandora**: Towards General World Model with Natural Language Actions and Video States. [[Paper](https://world-model.maitrix.org/assets/pandora.pdf)] [[Code](https://github.com/maitrix-org/Pandora)]
 - [**WKM**] Agent Planning with World Knowledge Model. **`arXiv 2024.5`**  [[Paper](https://arxiv.org/abs/2405.14205)] [[Code](https://github.com/zjunlp/WKM)]
-- [**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`arXiv 2024.5`**  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
 - **Newton**™ – a first-of-its-kind foundation model for understanding the physical world. **`Archetype AI`** [[Blog](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)]
 - **Compete and Compose**: Learning Independent Mechanisms for Modular World Models. **`arXiv 2024.4`**  [[Paper](https://arxiv.org/abs/2404.15109)]
 - **MagicTime**: Time-lapse Video Generation Models as Metamorphic Simulators. **`arXiv 2024.4`**  [[Paper](https://arxiv.org/abs/2404.05014)] [[Code](https://github.com/PKU-YuanGroup/MagicTime)]
