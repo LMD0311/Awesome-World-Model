@@ -64,6 +64,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - **MagicDrive**: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - **Copilot4D**: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - **SafeDreamer**: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
+- **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
 - **Doe-1**: Closed-Loop Autonomous Driving with Large World Model. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.09627)] [[Code](https://github.com/wzzheng/Doe)]
 - [**DrivePhysica**] Physical Informed Driving World Model. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.08410)] [[Code](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)]
 - **HoloDrive**: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.01407)]
