@@ -143,6 +143,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - **MAMBA**: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
+- **Owl-1**: Omni World Model for Consistent Long Video Generation. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.09600)] [[Code](https://github.com/huang-yh/Owl)]
 - **StoryWeaver**: A Unified World Model for Knowledge-Enhanced Story Character Customization. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.07375)] [[Code](https://github.com/Aria-Zhangjl/StoryWeaver)]
 - **SimuDICE**: Offline Policy Optimization Through World Model Updates and DICE Estimation. **`BNAIC 2024`** [[Paper](https://arxiv.org/abs/2412.06486)]
 - Bounded Exploration with World Model Uncertainty in Soft Actor-Critic Reinforcement Learning Algorithm. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.06139)]
