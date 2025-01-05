@@ -52,6 +52,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**NeMo**] Neural Volumetric World Models for Autonomous Driving. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)]
 - **CarFormer**: Self-Driving with Learned Object-Centric Representations. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2407.15843)] [[Code](https://kuis-ai.github.io/CarFormer/)]
 - [**MARL-CCE**] Modelling-Competitive-Behaviors-in-Autonomous-Driving-Under-Generative-World-Model. **`ECCV 2024`** [[Code](https://github.com/qiaoguanren/MARL-CCE)]
+- [**GUMP**] Solving Motion Planning Tasks with a Scalable Generative Model. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2407.02797)] [[Code](https://github.com/HorizonRobotics/GUMP/)]
 - **DrivingDiffusion**: Layout-Guided multi-view driving scene video generation with latent diffusion model. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2310.07771)] [[Code](https://github.com/shalfun/DrivingDiffusion)]
 - **3D-VLA**: A 3D Vision-Language-Action Generative World Model.  **`ICML 2024`** [[Paper](https://arxiv.org/abs/2403.09631)]
 - [**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`CVPR 2024`** [[Paper](https://arxiv.org/abs/2312.17655)] [[Code](https://github.com/OpenDriveLab/ViDAR)]
