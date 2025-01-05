@@ -134,6 +134,8 @@ Feel free to share this list with others! 🥳🥳🥳
 - Causal World Representation in the GPT Model. **`NeurIPSW 2024`** [[Paper](https://arxiv.org/abs/2412.07446)]
 - **PreLAR**: World Model Pre-training with Learnable Action Representation. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)] [[Code](https://github.com/zhanglixuan0720/PreLAR)]
 - [**CWM**] Understanding Physical Dynamics with Counterfactual World Modeling. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03523.pdf)] [[Code](https://neuroailab.github.io/cwm-physics/)]
+- **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2403.08321)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
+
 - [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 2024 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
 - [**LLM-Sim**] Can Language Models Serve as Text-Based World Simulators? **`ACL`** [[Paper](https://arxiv.org/abs/2406.06485)] [[Code](https://github.com/cognitiveailab/GPT-simulator)]
 - **RoboDreamer**: Learning Compositional World Models for Robot Imagination. **`ICML 2024`** [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
