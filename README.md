@@ -156,6 +156,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [**R2I**] Mastering Memory Tasks with World Models. **`ICLR 2024`** [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - **MAMBA**: an Effective World Model Approach for Meta-Reinforcement Learning. **`ICLR 2024`**  [[Paper](https://arxiv.org/abs/2403.09859)] [[Code](https://github.com/zoharri/mamba)]
 - Multi-Task Interactive Robot Fleet Learning with Visual World Models. **`CoRL 2024`** [[Paper](https://arxiv.org/abs/2410.22689)] [[Code](https://ut-austin-rpl.github.io/sirius-fleet/)]
+- Towards Unraveling and Improving Generalization in World Models. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2501.00195)]
 - **Towards Physically Interpretable World Models**: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.13772)]
 - **Dream to Manipulate**: Compositional World Models Empowering Robot Imitation Learning with Imagination. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.14957)]  [[Project](https://leobarcellona.github.io/DreamToManipulate/)]
 - Transformers Use Causal World Models in Maze-Solving Tasks. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.11867)]
