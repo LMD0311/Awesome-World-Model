@@ -126,7 +126,8 @@ Feel free to share this list with others! 🥳🥳🥳
 ## Other World Model Paper
 ### 2025
 - **RoboHorizon**: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.06605)]
-- **Cosmos** World Foundation Model Platform for Physical AI. **`NVIDIA`** [[Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NVIDIA%20Cosmos_4.pdf)] [[Code](https://github.com/NVIDIA/Cosmos)]
+- **EnerVerse**: Envisioning Embodied Future Space for Robotics Manipulation. **`AgiBot`**  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.06605)] [[Website](https://sites.google.com/view/enerverse)]
+- **Cosmos** World Foundation Model Platform for Physical AI. **`NVIDIA`** **`arXiv 2025.1`** [[Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NVIDIA%20Cosmos_4.pdf)] [[Code](https://github.com/NVIDIA/Cosmos)]
 ### 2024
 - [**SMAC**] Grounded Answers for Multi-agent Decision-making Problem through Generative World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.02664)]
 - [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 2024`** [[Paper](https://arxiv.org/pdf/2305.15260)] [[Website](https://qiwang067.github.io/coworld)] [[Torch Code](https://github.com/qiwang067/CoWorld)]
