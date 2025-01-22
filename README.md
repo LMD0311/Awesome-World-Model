@@ -34,6 +34,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 - World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)
 - A Survey of World Models for Autonomous Driving. **`arXiv 2025.01`** [[Paper](https://arxiv.org/abs/2501.11260)]
+- Generative Physical AI in Vision: A Survey. **`arXiv 2025.01`** [[Paper](https://arxiv.org/abs/2501.10928)] [[Code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)]
 - Understanding World or Predicting Future? A Comprehensive Survey of World Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.14499)]
 - Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.02914)]
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
