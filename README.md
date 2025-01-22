@@ -127,6 +127,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ## Other World Model Paper
 ### 2025
+- **Robotic World Model**: A Neural Network Simulator for Robust Policy Optimization in Robotics.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.10100)]
 - **GAWM**: Global-Aware World Model for Multi-Agent Reinforcement Learning.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.10116)]
 - **RoboHorizon**: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.06605)]
 - **EnerVerse**: Envisioning Embodied Future Space for Robotics Manipulation. **`AgiBot`**  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.06605)] [[Website](https://sites.google.com/view/enerverse)]
