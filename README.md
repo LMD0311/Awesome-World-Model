@@ -42,6 +42,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2025
+- **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
 
 ### 2024
