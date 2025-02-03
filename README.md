@@ -132,6 +132,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ## Other World Model Paper
 ### 2025
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025`** [[Paper](https://arxiv.org/pdf/2410.03618)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
+- **UP-VLA**: A Unified Understanding and Prediction Model for Embodied Agent.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.18867)]
 - **GLAM**: Global-Local Variation Awareness in Mamba-based World Model.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.11949)] [[Code](https://github.com/GLAM2025/glam)]
 - **Robotic World Model**: A Neural Network Simulator for Robust Policy Optimization in Robotics.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.10100)]
 - **GAWM**: Global-Aware World Model for Multi-Agent Reinforcement Learning.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.10116)]
