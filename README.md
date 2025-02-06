@@ -32,7 +32,7 @@ Feel free to share this list with others! 🥳🥳🥳
 ### Survey
 
 - A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
-- World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)
+- World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)]
 - A Survey of World Models for Autonomous Driving. **`arXiv 2025.01`** [[Paper](https://arxiv.org/abs/2501.11260)]
 - Generative Physical AI in Vision: A Survey. **`arXiv 2025.01`** [[Paper](https://arxiv.org/abs/2501.10928)] [[Code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)]
 - Understanding World or Predicting Future? A Comprehensive Survey of World Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.14499)]
@@ -42,12 +42,13 @@ Feel free to share this list with others! 🥳🥳🥳
 - World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2025
+- **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.14729)] [[Code](https://github.com/LMD0311/HERMES)]  [[Project](https://lmd0311.github.io/HERMES/)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
 
 ### 2024
-
+- **DINO-Foresight**: Looking into the Future with DINO. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.11673)] [[Code](https://github.com/Sta8is/DINO-Foresight)]
 - [**SEM2**] Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model. **`TITS`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10538211/)]
 - **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2405.17398)] [[Code](https://github.com/OpenDriveLab/Vista)]
 - **DrivingDojo Dataset**: Advancing Interactive and Knowledge-Enriched Driving World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.10738)] [[Project](https://drivingdojo.github.io/)]
