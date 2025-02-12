@@ -43,6 +43,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ### 2025
 - **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
+- **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.14729)] [[Code](https://github.com/LMD0311/HERMES)]  [[Project](https://lmd0311.github.io/HERMES/)]
 - **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
