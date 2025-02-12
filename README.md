@@ -134,7 +134,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ## Other World Model Paper
 ### 2025
-- **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025`** [[Paper](https://arxiv.org/pdf/2410.03618)] [[Code](https://github.com/qiwang067/LS-Imagine)]
+- **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DMWM**: Dual-Mind World Model with Long-Term Imagination.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.07591)]
 - **EvoAgent**: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.05907)]
 - Generating Symbolic World Models via Test-time Scaling of Large Language Models.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.04728)]
