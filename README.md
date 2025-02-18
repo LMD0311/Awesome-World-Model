@@ -4,7 +4,7 @@ Collect some World Models (for Autonomous Driving) papers.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new), or [*email* me](mailto:xzhou03@hust.edu.cn) / [*Qi Wang*](mailto:qiwang067@163.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
-If you find this repository useful, please consider  **giving us a star** 🌟. 
+If you find this repository useful, please consider  **giving us a star** 🌟 and a [cite](https://github.com/LMD0311/Awesome-World-Model#citation).
 
 Feel free to share this list with others! 🥳🥳🥳
 
@@ -263,3 +263,14 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ### 2018
 * World Models. **`NIPS 2018 Oral`** [[Paper](https://arxiv.org/pdf/1803.10122)]
+
+## Citation
+If you find this repository useful in your research, please consider giving a star ⭐ and a citation
+```bibtex
+@article{tu2025drivingworldmodel,
+      title={The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey}, 
+      author={Tu, Sifan and Zhou, Xin and Liang, Dingkang and Jiang, Xingyu and Zhang, Yumeng and Li, Xiaofan and Bai, Xiang},
+      journal={arXiv preprint arXiv:2502.10498},
+      year={2025}
+}
+```
