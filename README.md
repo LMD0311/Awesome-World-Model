@@ -44,6 +44,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 ### 2025
 - [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 2025`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
+- **DynamicCity**: Large-Scale LiDAR Generation from Dynamic Scenes  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2410.18084)] [[Code](https://github.com/3DTopia/DynamicCity)]
 - **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
 - [**PreWorld**] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2502.07309)] [[Code](https://github.com/getterupper/PreWorld)]
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
