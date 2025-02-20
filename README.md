@@ -137,6 +137,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 ## Other World Model Paper
 ### 2025
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
+- Learning To Explore With Predictive World Model Via Self-Supervised Learning. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.13200)]
 - **Text2World**: Benchmarking Large Language Models for Symbolic World Model Generation.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.13092)]  [[Project](https://text-to-world.github.io/)]
 - **M^3** : A Modular World Model over Streams of Tokens.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.11537)]  [[Code](https://github.com/leor-c/M3)]
 - When do Neural Networks Learn World Models?.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.09297)]
