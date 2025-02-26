@@ -44,6 +44,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 2025`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
 - **DynamicCity**: Large-Scale LiDAR Generation from Dynamic Scenes  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2410.18084)] [[Code](https://github.com/3DTopia/DynamicCity)]
 - **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
+- **OccProphet**: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2502.15180)] [[Code](https://github.com/JLChen-C/OccProphet)]
 - [**PreWorld**] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2502.07309)] [[Code](https://github.com/getterupper/PreWorld)]
 - [**SSR**] Does End-to-End Autonomous Driving Really Need Perception Tasks? **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
