@@ -49,6 +49,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - [**SSR**] Does End-to-End Autonomous Driving Really Need Perception Tasks? **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.14729)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
+- **AVD2**: Accident Video Diffusion for Accident Video Description. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2502.14801)] [[Project](https://an-answer-tree.github.io/)]
 - **VaViM and VaVAM**: Autonomous Driving through Video Generative Modeling.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.15672)] [[Code](https://github.com/valeoai/VideoActionModel)]
 - **Dream to Drive**: Model-Based Vehicle Control Using Analytic World Models.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.10012)]
 - **MaskGWM**: A Generalizable Driving World Model with Video Mask Reconstruction.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.11663)] [[Code](https://github.com/SenseTime-FVG/OpenDWM)]
