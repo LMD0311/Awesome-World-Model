@@ -42,6 +42,12 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 
 ### 2025
 - [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 2025`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
+- **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
+- **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
+- **ReconDreamer**: Crafting World Models for Driving Scene Reconstruction via Online Restoration. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2411.19548)] [[Code](https://github.com/GigaAI-research/ReconDreamer)]
+- **MaskGWM**: A Generalizable Driving World Model with Video Mask Reconstruction.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2502.11663)] [[Code](https://github.com/SenseTime-FVG/OpenDWM)]
+- **UniScene**: Unified Occupancy-centric Driving Scene Generation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.05435)] [[Project](https://arlo0o.github.io/uniscene/)]
+- **GEM**: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.11198)] [[Project](https://vita-epfl.github.io/GEM.github.io/)]
 - **DynamicCity**: Large-Scale LiDAR Generation from Dynamic Scenes  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2410.18084)] [[Code](https://github.com/3DTopia/DynamicCity)]
 - **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
 - **OccProphet**: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2502.15180)] [[Code](https://github.com/JLChen-C/OccProphet)]
@@ -52,7 +58,6 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **AVD2**: Accident Video Diffusion for Accident Video Description. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2502.14801)] [[Project](https://an-answer-tree.github.io/)]
 - **VaViM and VaVAM**: Autonomous Driving through Video Generative Modeling.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.15672)] [[Code](https://github.com/valeoai/VideoActionModel)]
 - **Dream to Drive**: Model-Based Vehicle Control Using Analytic World Models.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.10012)]
-- **MaskGWM**: A Generalizable Driving World Model with Video Mask Reconstruction.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.11663)] [[Code](https://github.com/SenseTime-FVG/OpenDWM)]
 - **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
 
@@ -85,19 +90,15 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **DrivingWorld**: Constructing World Model for Autonomous Driving via Video GPT. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.19505)] [[Code](https://github.com/YvanYin/DrivingWorld)]
 - **DrivingGPT**: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.18607)] [[Project](https://rogerchern.github.io/DrivingGPT/)]
 - An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.13772)]
-- **GEM**: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.11198)] [[Project](https://vita-epfl.github.io/GEM.github.io/)]
-- **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
 - **Doe-1**: Closed-Loop Autonomous Driving with Large World Model. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.09627)] [[Code](https://github.com/wzzheng/Doe)]
 - [**DrivePhysica**] Physical Informed Driving World Model. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.08410)] [[Code](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)]
 - **Terra** **ACT-Bench**: Towards Action Controllable World Models for Autonomous Driving. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.05337)] [[Code](https://github.com/turingmotors/ACT-Bench)] [[Project](https://turingmotors.github.io/actbench/)] [[Hugging Face](https://huggingface.co/turing-motors/Terra)] 
 - **UniMLVG**: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.04842)] [[Project](https://sensetime-fvg.github.io/UniMLVG/)] [[Code](https://github.com/SenseTime-FVG/OpenDWM)]
 - **HoloDrive**: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.01407)]
 - **InfinityDrive**: Breaking Time Limits in Driving World Models. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.01522)] [[Project Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)]
-- **ReconDreamer**: Crafting World Models for Driving Scene Reconstruction via Online Restoration. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.19548)] [[Code](https://github.com/GigaAI-research/ReconDreamer)]
 - Generating Out-Of-Distribution Scenarios Using Language Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.16554)]
 - **Imagine-2-Drive**: High-Fidelity World Modeling in CARLA for Autonomous Vehicles. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
 - **WorldSimBench**: Towards Video Generation Models as World Simulator. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.18072)] [[Project Page](https://iranqin.github.io/WorldSimBench.github.io/)]
-- **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 - **DOME**: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.10429)] [[Project Page](https://gusongen.github.io/DOME)]
 - Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.16663)]
 - [**LatentDriver**] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.15730)] [[Code](https://github.com/Sephirex-X/LatentDriver)]
@@ -140,6 +141,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 
 ## Other World Model Paper
 ### 2025
+- [**NWM**] Navigation World Models.  **`CVPR 25`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **WorldModelBench**: Judging Video Generation Models As World Models. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.20694)] [[Project](https://worldmodelbench-team.github.io/)]
 - **Multimodal Dreaming**: A Global Workspace Approach to World Model-Based Reinforcement Learning. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.21142)]
@@ -197,7 +199,6 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **SimuDICE**: Offline Policy Optimization Through World Model Updates and DICE Estimation. **`BNAIC 2024`** [[Paper](https://arxiv.org/abs/2412.06486)]
 - Bounded Exploration with World Model Uncertainty in Soft Actor-Critic Reinforcement Learning Algorithm. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.06139)]
 - **Genie 2**: A large-scale foundation world model.  **`2024.12`** **`Google DeepMind`** [[Blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
-- [**NWM**] Navigation World Models.  **`arXiv 2024.12`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - **The Matrix**: Infinite-Horizon World Generation with Real-Time Moving Control.  **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.03568)] [[Project](https://thematrix1999.github.io/)]
 - **Motion Prompting**: Controlling Video Generation with Motion Trajectories.  **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.02700)] [[Project](https://motion-prompting.github.io/)]
 - Generative World Explorer. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.11844)] [[Project](https://generative-world-explorer.github.io/)]
