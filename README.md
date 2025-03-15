@@ -145,10 +145,11 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 ### 2025
 - [**NWM**] Navigation World Models.  **`CVPR 25`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
+- Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing. **`ACMSE 2025`** [[Paper](https://arxiv.org/abs/2503.08872)]
 - **LUMOS**: Language-Conditioned Imitation Learning with World Models. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.10370)] [[Project](http://lumos.cs.uni-freiburg.de/)]
 - **World Modeling Makes a Better Planner**: Dual Preference Optimization for Embodied Task Planning. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.10480)]
 - [**WLA**] Inter-environmental world modeling for continuous and compositional dynamics. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.09911)]
-- Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.08872)]
+- **Disentangled World Models**: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.08751)]
 - **WorldModelBench**: Judging Video Generation Models As World Models. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.20694)] [[Project](https://worldmodelbench-team.github.io/)]
 - **Multimodal Dreaming**: A Global Workspace Approach to World Model-Based Reinforcement Learning. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.21142)]
 - Learning To Explore With Predictive World Model Via Self-Supervised Learning. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.13200)]
