@@ -150,6 +150,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **World Modeling Makes a Better Planner**: Dual Preference Optimization for Embodied Task Planning. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.10480)]
 - [**WLA**] Inter-environmental world modeling for continuous and compositional dynamics. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.09911)]
 - **Disentangled World Models**: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.08751)]
+- Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.08122)]
 - **WorldModelBench**: Judging Video Generation Models As World Models. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.20694)] [[Project](https://worldmodelbench-team.github.io/)]
 - **Multimodal Dreaming**: A Global Workspace Approach to World Model-Based Reinforcement Learning. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.21142)]
 - Learning To Explore With Predictive World Model Via Self-Supervised Learning. **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.13200)]
