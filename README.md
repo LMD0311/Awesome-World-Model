@@ -54,6 +54,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - [**PreWorld**] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2502.07309)] [[Code](https://github.com/getterupper/PreWorld)]
 - [**SSR**] Does End-to-End Autonomous Driving Really Need Perception Tasks? **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
+- [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.14729)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
 - [**EOT-WM**] Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.09215)]
 - [**T^3Former**] Temporal Triplane Transformers as Occupancy World Models. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.07338)]
