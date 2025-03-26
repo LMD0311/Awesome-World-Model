@@ -147,6 +147,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 ### 2025
 - [**NWM**] Navigation World Models.  **`CVPR 25`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
+- **DyWA**: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.16806)] [[Project](https://pku-epic.github.io/DyWA/)]
 - **Cosmos-Transfer1** **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.14492)] [[Code](https://github.com/nvidia-cosmos/cosmos-transfer1)]
 - Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing. **`ACMSE 2025`** [[Paper](https://arxiv.org/abs/2503.08872)]
 - **LUMOS**: Language-Conditioned Imitation Learning with World Models. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.10370)] [[Project](http://lumos.cs.uni-freiburg.de/)]
