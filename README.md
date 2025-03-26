@@ -8,9 +8,11 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 
 ## Workshop & Challenge
 
+- [`CVPR 2025 Workshop & Challenge | OpenDriveLab`](https://opendrivelab.com/challenge2025/#1x-wm) Track: World Model.
+> A world model is a computer program that can imagine how the world evolves in response to an agent's behavior. It has the potential to solve general-purpose simulation and evaluation, enabling robots that are safe, reliable, and intelligent in a wide variety of scenarios.
+- [`World Model Bench @ CVPR'25`](https://worldmodelbench.github.io/) WorldModelBench: The 1st Workshop on Benchmarking World Models
+> World models refer to predictive models of physical phenomena in the world surrounding us. These models are fundamental for Physical AI agents, enabling crucial capabilities such as decision-making, planning, and counterfactual analysis. Effective world models must integrate several key components, including perception, instruction following, controllability, physical plausibility, and future prediction.
 - [`CVPR 2024 Workshop & Challenge | OpenDriveLab`](https://opendrivelab.com/challenge2024/#predictive_world_model) Track #4: Predictive World Model.
-  > Serving as an abstract spatio-temporal representation of reality, the world model can predict future states based on the current state. The learning process of world models has the potential to elevate a pre-trained foundation model to the next level. Given vision-only inputs, the neural network outputs point clouds in the future to testify its predictive capability of the world.
-  
 - [`CVPR 2023 Workshop on Autonomous Driving`](https://cvpr2023.wad.vision/) CHALLENGE 3: ARGOVERSE CHALLENGES, [3D Occupancy Forecasting](https://eval.ai/web/challenges/challenge-page/1977/overview) using the [Argoverse 2 Sensor Dataset](https://www.argoverse.org/av2.html#sensor-link). Predict the spacetime occupancy of the world for the next 3 seconds.
 
 ## Papers
