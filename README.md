@@ -153,7 +153,8 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 
 ## Other World Model Paper
 ### 2025
-- [**NWM**] Navigation World Models.  **`CVPR 25`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
+- [**NWM**] Navigation World Models.  **`CVPR 25 Oral`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
+- [**MoSim**] Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.07095)]
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.22020)] [[Project](https://cot-vla.github.io/)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - [**UWM**] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.02792)] [[Code](https://github.com/WEIRDLabUW/unified-world-model)]
