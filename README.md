@@ -160,6 +160,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - [**UWM**] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.02792)] [[Code](https://github.com/WEIRDLabUW/unified-world-model)]
 - Synthesizing world models for bilevel planning. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.20124)]
 - **Aether**: Geometric-Aware Unified World Modeling. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.18945)] [[Project](https://aether-world.github.io/)]
+- [**MaaG**] Model as a Game: On Numerical and Spatial Consistency for Generative Games. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.21172)]
 - **DyWA**: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.16806)] [[Project](https://pku-epic.github.io/DyWA/)]
 - **Cosmos-Transfer1** **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.14492)] [[Code](https://github.com/nvidia-cosmos/cosmos-transfer1)]
 - Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing. **`ACMSE 2025`** [[Paper](https://arxiv.org/abs/2503.08872)]
