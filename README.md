@@ -30,7 +30,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
   
 
 ### Survey
-
+- Exploring the Evolution of Physics Cognition in Video Generation: A Survey. **`arXiv 2025.03`** [[Paper](https://arxiv.org/abs/2503.21765)] [[Code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)]
 - A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 - World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)]
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`arXiv 2025.02`** [[Paper](https://arxiv.org/abs/2502.10498)]
