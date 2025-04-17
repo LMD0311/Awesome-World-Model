@@ -153,6 +153,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 
 ## Other World Model Paper
 ### 2025
+- [**DreamerV3**] Mastering Diverse Domains through world Models. **`Nature`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[JAX Code](https://github.com/danijar/dreamerv3)]
 - [**NWM**] Navigation World Models.  **`CVPR 25 Oral`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - [**MoSim**] Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.07095)]
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.22020)] [[Project](https://cot-vla.github.io/)]
