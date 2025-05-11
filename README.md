@@ -74,6 +74,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Dream to Drive**: Model-Based Vehicle Control Using Analytic World Models.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.10012)]
 - **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
+- **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 
 ### 2024
 - [**SEM2**] Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model. **`TITS`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10538211/)]
