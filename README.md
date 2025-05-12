@@ -74,7 +74,6 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Dream to Drive**: Model-Based Vehicle Control Using Analytic World Models.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.10012)]
 - **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
-- **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 
 ### 2024
 - [**SEM2**] Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model. **`TITS`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10538211/)]
@@ -162,6 +161,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.22020)] [[Project](https://cot-vla.github.io/)]
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
+- **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - **seq-JEPA**: Autoregressive Predictive Learning of Invariant-Equivariant World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.03176)]
 - **TesserAct**: Learning 4D Embodied World Models. **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.20995)] [[Project](https://tesseractworld.github.io/)]
 - **ManipDreamer**: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance. **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.16464)]
