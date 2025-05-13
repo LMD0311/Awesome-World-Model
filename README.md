@@ -162,6 +162,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
+- [**RoboOccWorld**] Occupancy World Model for Robots. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.05512)]
 - **seq-JEPA**: Autoregressive Predictive Learning of Invariant-Equivariant World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.03176)]
 - **TesserAct**: Learning 4D Embodied World Models. **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.20995)] [[Project](https://tesseractworld.github.io/)]
 - **ManipDreamer**: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance. **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.16464)]
