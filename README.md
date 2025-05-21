@@ -162,6 +162,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
+- **RLVR-World**: Training World Models with Reinforcement Learning. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.13934)] [[Project](https://thuml.github.io/RLVR-World/)]
 - **Vid2World**: Crafting Video Diffusion Models to Interactive World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.14357)] [[Project](https://knightnemo.github.io/vid2world/)]
 - **Causal Cartographer**: From Mapping to Reasoning Over Counterfactual Worlds. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.14396)]
 - **EWMBench**: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.09694)] [[Data&Code](https://github.com/AgibotTech/EWMBench)]
