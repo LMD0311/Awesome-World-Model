@@ -162,6 +162,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
+- [**FPWC**] Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.16422)]
 - [**ForeDiff**] Consistent World Models via Foresight Diffusion. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.16474)]
 - **FLARE**: Robot Learning with Implicit World Modeling. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.15659)] [[Project](https://research.nvidia.com/labs/gear/flare)]
 - [**RWM**] World Models as Reference Trajectories for Rapid Motor Adaptation. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.15589)]
