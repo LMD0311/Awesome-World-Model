@@ -118,6 +118,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **Imagine-2-Drive**: High-Fidelity World Modeling in CARLA for Autonomous Vehicles. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.10171)] [[Project Page](https://anantagrg.github.io/Imagine-2-Drive.github.io/)]
 - **WorldSimBench**: Towards Video Generation Models as World Simulator. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.18072)] [[Project Page](https://iranqin.github.io/WorldSimBench.github.io/)]
 - **DOME**: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. **`arXiv 2024.10`** [[Paper](https://arxiv.org/abs/2410.10429)] [[Project Page](https://gusongen.github.io/DOME)]
+- **OCCVAR**: Scalable 4D Occupancy Prediction via Next-Scale Prediction. **`OpenReview`** [[Paper](https://openreview.net/forum?id=X2HnTFsFm8)]
 - Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.16663)]
 - [**LatentDriver**] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.15730)] [[Code](https://github.com/Sephirex-X/LatentDriver)]
 - **RenderWorld**: World Model with Self-Supervised 3D Label. **`arXiv 2024.9`** [[Paper](https://arxiv.org/abs/2409.11356)]
