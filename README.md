@@ -175,6 +175,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - Sparse Imagination for Efficient Visual World Model Planning. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01392)]
 - Learning Abstract World Models with a Group-Structured Latent Space. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01529)]
 - **WoMAP**: World Models For Embodied Open-Vocabulary Object Localization. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01600)]
+- **Dyna-Think**: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2506.00320)]
 - [**WPE**] Evaluating Robot Policies in a World Model. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2506.00613)] [[Demo](https://world-model-eval.github.io/)]
 - **StateSpaceDiffuser**: Bringing Long Context to Diffusion World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22246)]
 - [**VRAG**] Learning World Models for Interactive Video Generation. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.21996)]
