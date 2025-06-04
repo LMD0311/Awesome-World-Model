@@ -168,6 +168,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
+- **StateSpaceDiffuser**: Bringing Long Context to Diffusion World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22246)]
 - [**VRAG**] Learning World Models for Interactive Video Generation. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.21996)]
 - **JEDI**: Latent End-to-end Diffusion Mitigates Agent-Human Performance Asymmetry in Model-Based Reinforcement Learning. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.19698)]
 - [**FPWC**] Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.16422)]
