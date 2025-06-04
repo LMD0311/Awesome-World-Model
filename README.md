@@ -170,6 +170,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
+- Learning Abstract World Models with a Group-Structured Latent Space **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01529)]
 - **WoMAP**: World Models For Embodied Open-Vocabulary Object Localization. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01600)]
 - **StateSpaceDiffuser**: Bringing Long Context to Diffusion World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22246)]
 - [**VRAG**] Learning World Models for Interactive Video Generation. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.21996)]
