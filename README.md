@@ -64,7 +64,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **DriveX**: Omni Scene Modeling for Learning Generalizable World Knowledge in
 Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.19239)]
 - **VL-SAFE**: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.16377)] [[Project](https://ys-qu.github.io/vlsafe-website/)]
-- **Raw2Drive**: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2).  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2501.14729)]
+- **Raw2Drive**: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2).  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.16394)]
 - **DriVerse**: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.19614)] [[Code](https://github.com/shalfun/DriVerse)]
 - **DiVE**: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.18576)]
 - [**WoTE**] End-to-End Driving with Online Trajectory Evaluation via BEV World Model.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2503.22231)] [[Code](https://github.com/liyingyanUCAS/WoTE)]
