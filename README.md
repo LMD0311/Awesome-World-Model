@@ -63,6 +63,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **GeoDrive**: 3D Geometry-Informed Driving World Model with Precise Action Control.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)]
 - **DriveX**: Omni Scene Modeling for Learning Generalizable World Knowledge in
 Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.19239)]
+- **ProphetDWM**: A Driving World Model for Rolling Out Future Actions and Videos. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.18650)]
 - **VL-SAFE**: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.16377)] [[Project](https://ys-qu.github.io/vlsafe-website/)]
 - **Raw2Drive**: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2).  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2501.14729)]
 - **DriVerse**: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.19614)] [[Code](https://github.com/shalfun/DriVerse)]
