@@ -90,6 +90,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 ### 2024
 - [**SEM2**] Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model. **`TITS`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10538211/)]
 - **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2405.17398)] [[Code](https://github.com/OpenDriveLab/Vista)]
+- **SceneDiffuser**: Efficient and Controllable Driving Simulation Initialization and Rollout. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2412.12129)]
 - **DrivingDojo Dataset**: Advancing Interactive and Knowledge-Enriched Driving World Model. **`NeurIPS 2024`** [[Paper](https://arxiv.org/abs/2410.10738)] [[Project](https://drivingdojo.github.io/)]
 - **Think2Drive**: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving. **`ECCV 2024`** [[Paper](https://arxiv.org/abs/2402.16720)]
 - [**MARL-CCE**] Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. **`ECCV 2024`** [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf)] [[Code](https://github.com/qiaoguanren/MARL-CCE)]
