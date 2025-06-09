@@ -69,6 +69,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DriVerse**: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.19614)] [[Code](https://github.com/shalfun/DriVerse)]
 - **DiVE**: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2504.18576)]
 - [**WoTE**] End-to-End Driving with Online Trajectory Evaluation via BEV World Model.  **`arXiv 2025.4`** [[Paper](https://arxiv.org/abs/2503.22231)] [[Code](https://github.com/liyingyanUCAS/WoTE)]
+- **MagicDrive-V2**: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2411.13807)] [[Project](https://gaoruiyuan.com/magicdrive-v2/)]
 - **CoGen**: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.22231)] 
 - **GAIA-2**: A Controllable Multi-View Generative World Model for Autonomous Driving.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.20523)] 
 - **Semi-SD**: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.19713)] [[Code](https://github.com/xieyuser/Semi-SD)]
