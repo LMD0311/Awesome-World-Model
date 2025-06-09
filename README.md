@@ -52,6 +52,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **UniScene**: Unified Occupancy-centric Driving Scene Generation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.05435)] [[Project](https://arlo0o.github.io/uniscene/)]
 - **GEM**: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.11198)] [[Project](https://vita-epfl.github.io/GEM.github.io/)]
 - [**UMGen**] Generating Multimodal Driving Scenes via Next-Scene Prediction. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.14945)] [[Project](https://yanhaowu.github.io/UMGen/)] [[Code](https://github.com/YanhaoWu/UMGen/)]
+- **DIO**: Decomposable Implicit 4D Occupancy-Flow World Model. **`CVPR 25`** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Diehl_DIO_Decomposable_Implicit_4D_Occupancy-Flow_World_Model_CVPR_2025_paper.html)]
 - **DynamicCity**: Large-Scale LiDAR Generation from Dynamic Scenes  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2410.18084)] [[Code](https://github.com/3DTopia/DynamicCity)]
 - **AdaWM**: Adaptive World Model based Planning for Autonomous Driving.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2501.13072)]
 - **OccProphet**: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2502.15180)] [[Code](https://github.com/JLChen-C/OccProphet)]
