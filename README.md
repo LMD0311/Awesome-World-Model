@@ -168,6 +168,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**DreamerV3**] Mastering Diverse Domains through world Models. **`Nature`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[JAX Code](https://github.com/danijar/dreamerv3)]
 - General agents need world models.  **`ICML 25`** [[Paper](https://arxiv.org/abs/2506.01622)]
 - [**NWM**] Navigation World Models.  **`CVPR 25 Oral`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
+- [**PrediCIR**] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.17109)] [[Code](https://github.com/Pter61/predicir)]
 - [**MoSim**] Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.07095)]
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.22020)] [[Project](https://cot-vla.github.io/)]
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
