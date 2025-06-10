@@ -218,7 +218,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DyWA**: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.16806)] [[Project](https://pku-epic.github.io/DyWA/)]
 - **Cosmos-Transfer1** **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.14492)] [[Code](https://github.com/nvidia-cosmos/cosmos-transfer1)]
 - Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing. **`ACMSE 2025`** [[Paper](https://arxiv.org/abs/2503.08872)]
-- [**FAR**] Long-Context Autoregressive Video Modeling with Next-Frame Prediction. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.19325)] [[Project](https://farlongctx.github.io/)]
+- [**FAR**] Long-Context Autoregressive Video Modeling with Next-Frame Prediction. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.19325)] [[Project](https://farlongctx.github.io/)] [[Code](https://github.com/showlab/FAR)]
 - **LUMOS**: Language-Conditioned Imitation Learning with World Models. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.10370)] [[Project](http://lumos.cs.uni-freiburg.de/)]
 - **World Modeling Makes a Better Planner**: Dual Preference Optimization for Embodied Task Planning. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.10480)]
 - [**WLA**] Inter-environmental world modeling for continuous and compositional dynamics. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.09911)]
