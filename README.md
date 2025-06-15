@@ -182,6 +182,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
+- **V-JEPA 2**: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`arXiv 2025.6`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2506.09985)] [[Project](https://ai.meta.com/vjepa/)]
 - [**TAWM**] Time-Aware World Model for Adaptive Prediction and Control. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.08441)] [[Code](https://github.com/anh-nn01/Time-Aware-World-Model)]
 - [**XPM-WM**] Efficient Generation of Diverse Cooperative Agents with World Models. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.07450)]
 - Video World Models with Long-term Spatial Memory. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.05284)] [[Project](https://spmem.github.io/)]
