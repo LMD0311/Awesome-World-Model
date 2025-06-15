@@ -182,6 +182,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - Video World Models with Long-term Spatial Memory. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.05284)] [[Project](https://spmem.github.io/)]
 - **DSG-World**: Learning a 3D Gaussian World Model from Dual State Videos. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.05217)]
+- Safe Planning and Policy Optimization via World Model Learning. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.04828)]
 - **3DFlowAction**: Learning Cross-Embodiment Manipulation from 3D Flow World Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.06199)] [[Code](https://github.com/Hoyyyaard/3DFlowAction/)]
 - Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.06006)]
 - **ORV**: 4D Occupancy-centric Robot Video Generation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.03079)] [[Project](https://orangesodahub.github.io/ORV/)]
