@@ -62,6 +62,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
+- **Dreamland**: Controllable World Creation with Simulator and Generative Models  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.08006)] [[Project](https://metadriverse.github.io/dreamland/)]
 - **LongDWM**: Cross-Granularity Distillation for Building a Long-Term Driving World Model.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01546)] [[Code](https://wang-xiaodong1899.github.io/longdwm/)]
 - **ProphetDWM**: ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.18650)]
 - **GeoDrive**: 3D Geometry-Informed Driving World Model with Precise Action Control.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)]
