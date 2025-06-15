@@ -173,7 +173,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 ### 2025
 - [**DreamerV3**] Mastering Diverse Domains through world Models. **`Nature`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[JAX Code](https://github.com/danijar/dreamerv3)]
 - General agents need world models.  **`ICML 25`** [[Paper](https://arxiv.org/abs/2506.01622)]
-- [**NWM**] Navigation World Models.  **`CVPR 25 Oral`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
+- [**NWM**] Navigation World Models.  **`CVPR 25 Best Paper Honorable Mention`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - [**PrediCIR**] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.17109)] [[Code](https://github.com/Pter61/predicir)]
 - [**MoSim**] Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.07095)]
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.22020)] [[Project](https://cot-vla.github.io/)]
@@ -182,6 +182,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
+- **PlayerOne**: Egocentric World Simulator. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.09995)] [[Project](https://playerone-hku.github.io/)]
 - **V-JEPA 2**: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`arXiv 2025.6`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2506.09985)] [[Project](https://ai.meta.com/vjepa/)]
 - [**TAWM**] Time-Aware World Model for Adaptive Prediction and Control. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.08441)] [[Code](https://github.com/anh-nn01/Time-Aware-World-Model)]
 - [**XPM-WM**] Efficient Generation of Diverse Cooperative Agents with World Models. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.07450)]
