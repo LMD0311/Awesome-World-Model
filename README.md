@@ -66,6 +66,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Cosmos-Drive-Dreams**: Scalable Synthetic Driving Data Generation with World Foundation Models.  **`arXiv 2025.6`** **`NVIDIA`** [[Paper](https://arxiv.org/abs/2506.09042)] [[Project](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)]
 - **Dreamland**: Controllable World Creation with Simulator and Generative Models.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.08006)] [[Project](https://metadriverse.github.io/dreamland/)]
 - **LongDWM**: Cross-Granularity Distillation for Building a Long-Term Driving World Model.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01546)] [[Code](https://wang-xiaodong1899.github.io/longdwm/)]
+- **FutureSightDrive**: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.17685)] [[Code](https://github.com/MIV-XJTU/FSDrive)]
 - **ProphetDWM**: ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.18650)]
 - **GeoDrive**: 3D Geometry-Informed Driving World Model with Precise Action Control.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)]
 - **DriveX**: Omni Scene Modeling for Learning Generalizable World Knowledge in
