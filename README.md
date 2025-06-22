@@ -197,6 +197,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DeepVerse**: 4D Autoregressive Video Generation as a World Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01103)] [[Project](https://sotamak1r.github.io/deepverse/)]
 - Sparse Imagination for Efficient Visual World Model Planning. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01392)]
 - Learning Abstract World Models with a Group-Structured Latent Space. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01529)]
+- **Voyager**: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.04225)] [[Project](https://voyager-world.github.io/)]
 - **WoMAP**: World Models For Embodied Open-Vocabulary Object Localization. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01600)]
 - Long-Context State-Space Video World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.20171)]
 - **Dyna-Think**: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2506.00320)]
