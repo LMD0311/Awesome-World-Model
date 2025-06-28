@@ -45,7 +45,8 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2025
-- [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 2025`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
+- **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
+- [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 25`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
 - **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 - **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
 - **ReconDreamer**: Crafting World Models for Driving Scene Reconstruction via Online Restoration. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2411.19548)] [[Code](https://github.com/GigaAI-research/ReconDreamer)]
@@ -63,7 +64,6 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.  **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.13138)] [[Project](https://4dvlab.github.io/STAGE/)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
-- **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
 - **ReSim**: Reliable World Simulation for Autonomous Driving.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.09981)] [[Project](https://opendrivelab.com/ReSim)]
 - **Cosmos-Drive-Dreams**: Scalable Synthetic Driving Data Generation with World Foundation Models.  **`arXiv 2025.6`** **`NVIDIA`** [[Paper](https://arxiv.org/abs/2506.09042)] [[Project](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)]
 - **Dreamland**: Controllable World Creation with Simulator and Generative Models.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.08006)] [[Project](https://metadriverse.github.io/dreamland/)]
