@@ -186,6 +186,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
+- [**UNIVERSE**] Adapting Vision-Language Models for Evaluating World Models. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.17967)]
 - **TransDreamerV3**: Implanting Transformer In DreamerV3. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.17103)]
 - Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.16565)]
 - Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.16584)]
