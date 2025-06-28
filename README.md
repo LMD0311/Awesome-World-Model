@@ -185,6 +185,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
+- [**UniVLA**] Unified Vision-Language-Action Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.19850)]
 - **Xray2Xray**: World Model from Chest X-rays with Volumetric Context. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.19055)]
 - **PlayerOne**: Egocentric World Simulator. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.09995)] [[Project](https://playerone-hku.github.io/)]
 - **V-JEPA 2**: Self-Supervised Video Models Enable Understanding, Prediction and Planning. **`arXiv 2025.6`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2506.09985)] [[Project](https://ai.meta.com/vjepa/)]
