@@ -46,6 +46,8 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 
 ### 2025
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
+- **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2412.03934)] [[Project](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
+- **DiST-4D**: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2503.15208)] [[Project](https://royalmelon0505.github.io/DiST-4D/)]
 - [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 25`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
 - **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 - **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
@@ -84,7 +86,6 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **GAIA-2**: A Controllable Multi-View Generative World Model for Autonomous Driving.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.20523)] 
 - **Semi-SD**: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.19713)] [[Code](https://github.com/xieyuser/Semi-SD)]
 - **MiLA**: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.15875)] [[Project](https://xiaomi-mlab.github.io/mila.github.io/)]
-- **DiST-4D**: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.15208)] [[Project](https://royalmelon0505.github.io/DiST-4D/)]
 - **SimWorld**: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13952)] [[Code](https://github.com/Li-Zn-H/SimWorld)]
 - [**EOT-WM**] Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.09215)]
 - [**T^3Former**] Temporal Triplane Transformers as Occupancy World Models. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.07338)]
@@ -366,7 +367,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**TWM**] Transformer-based World Models Are Happy with 100k Interactions. **`ICLR 2023`** [[Paper](https://arxiv.org/pdf/2303.07109)] [[Torch Code](https://github.com/jrobine/twm)]
 - **FOCUS**: Object-Centric World Models for Robotics Manipulation **`arXiv 2023.7`** [[Paper](https://arxiv.org/abs/2307.02427)] [[Code](https://github.com/StefanoFerraro/FOCUS)]
 - [**Dynalang**] Learning to Model the World with Language. **`arXiv 2023.8`** [[Paper](https://arxiv.org/pdf/2308.01399)] [[Code](https://github.com/jlin816/dynalang)]
-- **TAD** Task Aware Dreamer for Task Generalization in Reinforcement Learning. **`arXiv 2023.3`** [[Paper](https://arxiv.org/pdf/2303.05092)]
+- [**TAD**] Task Aware Dreamer for Task Generalization in Reinforcement Learning. **`arXiv 2023.3`** [[Paper](https://arxiv.org/pdf/2303.05092)]
 - [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[Code](https://github.com/danijar/dreamerv3)] [[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ### 2022
 - [**TD-MPC**] Temporal Difference Learning for Model Predictive Control. **`ICML 2022`** [[Paper](https://arxiv.org/pdf/2203.04955)][[Code](https://github.com/nicklashansen/tdmpc)]
