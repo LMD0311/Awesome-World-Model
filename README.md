@@ -188,6 +188,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
+- **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
 - **WorldVLA**: Towards Autoregressive Action World Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
 - **MinD**: Unified Visual Imagination and Control via Hierarchical World Models. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.18897)]
 - Transformer World Model for Sample Efficient Multi-Agent Reinforcement Learning. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.18537)]
@@ -365,6 +366,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**TWM**] Transformer-based World Models Are Happy with 100k Interactions. **`ICLR 2023`** [[Paper](https://arxiv.org/pdf/2303.07109)] [[Torch Code](https://github.com/jrobine/twm)]
 - **FOCUS**: Object-Centric World Models for Robotics Manipulation **`arXiv 2023.7`** [[Paper](https://arxiv.org/abs/2307.02427)] [[Code](https://github.com/StefanoFerraro/FOCUS)]
 - [**Dynalang**] Learning to Model the World with Language. **`arXiv 2023.8`** [[Paper](https://arxiv.org/pdf/2308.01399)] [[Code](https://github.com/jlin816/dynalang)]
+- **TAD** Task Aware Dreamer for Task Generalization in Reinforcement Learning. **`arXiv 2023.3`** [[Paper](https://arxiv.org/pdf/2303.05092)]
 - [**DreamerV3**] Mastering Atari with Discrete World Models. **`arXiv 2023.1`** [[Paper](https://arxiv.org/pdf/2301.04104)] [[Code](https://github.com/danijar/dreamerv3)] [[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ### 2022
 - [**TD-MPC**] Temporal Difference Learning for Model Predictive Control. **`ICML 2022`** [[Paper](https://arxiv.org/pdf/2203.04955)][[Code](https://github.com/nicklashansen/tdmpc)]
