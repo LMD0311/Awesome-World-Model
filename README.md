@@ -48,6 +48,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
 - **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2412.03934)] [[Project](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
 - **DiST-4D**: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2503.15208)] [[Project](https://royalmelon0505.github.io/DiST-4D/)]
+- **Epona**: Autoregressive Diffusion World Model for Autonomous Driving.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2506.24113)] [[Code](https://github.com/Kevin-thu/Epona/)]
 - [**PIWM**] Dream to Drive with Predictive Individual World Model.  **`TIV 25`** [[Paper](https://arxiv.org/abs/2501.16733)]  [[Code](https://github.com/gaoyinfeng/PIWM)]
 - **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 - **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
