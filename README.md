@@ -190,6 +190,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
+- **World4Omni**: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23919)] [[Project](https://world4omni.github.io/)]
 - **Embodied AI Agents**: Modeling the World. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.22355)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
 - **WorldVLA**: Towards Autoregressive Action World Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.21539)] [[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
