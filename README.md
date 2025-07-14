@@ -196,6 +196,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
+- Critiques of World Models. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.05169)]
 - **World4Omni**: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23919)] [[Project](https://arxiv.org/abs/2506.23135)]
 - **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23126)] [[Project](https://particleformer.github.io/)]
 - **RoboScape**: Physics-informed Embodied World Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.22355)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
