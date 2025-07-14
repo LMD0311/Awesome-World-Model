@@ -69,6 +69,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.  **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.13138)] [[Project](https://4dvlab.github.io/STAGE/)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **NRSeg**: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models.  **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.04002)] [[Code](https://github.com/lynn-yu/NRSeg)]
 - Towards foundational LiDAR world models with efficient latent flow matching.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23434)]
 - **ReSim**: Reliable World Simulation for Autonomous Driving.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.09981)] [[Project](https://opendrivelab.com/ReSim)]
 - **Cosmos-Drive-Dreams**: Scalable Synthetic Driving Data Generation with World Foundation Models.  **`arXiv 2025.6`** **`NVIDIA`** [[Paper](https://arxiv.org/abs/2506.09042)] [[Project](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)]
