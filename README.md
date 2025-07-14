@@ -185,6 +185,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**DreamerV3**] Mastering Diverse Domains through world Models. **`Nature`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[JAX Code](https://github.com/danijar/dreamerv3)]
 - **NavMorph**: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2506.23468)] [[Code](https://github.com/Feliciaxyao/NavMorph)]
 - General agents need world models.  **`ICML 25`** [[Paper](https://arxiv.org/abs/2506.01622)]
+- What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models. **`ICML 25`** [[Paper](https://arxiv.org/abs/2507.06952)]
 - [**NWM**] Navigation World Models.  **`CVPR 25 Best Paper Honorable Mention`** **`Yann LeCun`** [[Paper](https://arxiv.org/abs/2412.03572)] [[Project](https://www.amirbar.net/nwm/)]
 - [**PrediCIR**] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.17109)] [[Code](https://github.com/Pter61/predicir)]
 - [**MoSim**] Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.07095)]
