@@ -197,6 +197,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
+- [**GWM**] Graph World Model. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.10539)] [[Code](https://github.com/ulab-uiuc/GWM)]
 - **From Curiosity to Competence**: How World Models Interact with the Dynamics of Exploration. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.08210)]
 - **Martian World Models**: Controllable Video Synthesis with Physically Accurate 3D Reconstructions. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.07978)] [[Project](https://marsgenai.github.io/)]
 - **Sekai**: A Video Dataset towards World Exploration. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2506.15675)] [[Project](https://lixsp11.github.io/sekai-project/)]
