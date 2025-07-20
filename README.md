@@ -56,6 +56,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **DriveDreamer4D**: World Models Are Effective Data Machines for 4D Driving Scene Representation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2410.13571)] [[Project Page](https://drivedreamer4d.github.io/)]
 - **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.10373)] [[Code](https://github.com/zuosc19/GaussianWorld)]
 - **ReconDreamer**: Crafting World Models for Driving Scene Reconstruction via Online Restoration. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2411.19548)] [[Code](https://github.com/GigaAI-research/ReconDreamer)]
+- **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **MaskGWM**: A Generalizable Driving World Model with Video Mask Reconstruction.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2502.11663)] [[Code](https://github.com/SenseTime-FVG/OpenDWM)]
 - **UniScene**: Unified Occupancy-centric Driving Scene Generation. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.05435)] [[Project](https://arlo0o.github.io/uniscene/)]
 - **GEM**: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2412.11198)] [[Project](https://vita-epfl.github.io/GEM.github.io/)]
@@ -70,6 +71,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.  **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.13138)] [[Project](https://4dvlab.github.io/STAGE/)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception.  **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **Orbis**: Overcoming Challenges of Long-Horizon Prediction in Driving World Models.  **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.13162)] [[Code](https://lmb-freiburg.github.io/orbis.github.io/)]
 - **I2 -World**: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting.  **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.09144)] [[Code](https://github.com/lzzzzzm/II-World)]
 - **NRSeg**: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models.  **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.04002)] [[Code](https://github.com/lynn-yu/NRSeg)]
 - Towards foundational LiDAR world models with efficient latent flow matching.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23434)]
@@ -98,7 +100,6 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **AVD2**: Accident Video Diffusion for Accident Video Description. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2502.14801)] [[Project](https://an-answer-tree.github.io/)]
 - **VaViM and VaVAM**: Autonomous Driving through Video Generative Modeling.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.15672)] [[Code](https://github.com/valeoai/VideoActionModel)]
 - **Dream to Drive**: Model-Based Vehicle Control Using Analytic World Models.  **`arXiv 2025.2`** [[Paper](https://arxiv.org/abs/2502.10012)]
-- **FUTURIST**: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 - **AD-L-JEPA**: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data.  **`arXiv 2025.1`** [[Paper](https://arxiv.org/abs/2501.04969)] [[Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)]
 
 ### 2024
