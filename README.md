@@ -202,6 +202,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
+- LLM world models are mental: Output layer evidence of brittle world model use in LLM mechanical reasoning. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.15521)]
 - **MindJourney**: Test-Time Scaling with World Models for Spatial Reasoning. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.12508)] [[Project](https://umass-embodied-agi.github.io/MindJourney/)]
 - Latent Policy Steering with Embodiment-Agnostic Pretrained World Models. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.13340)]
 - **MobiWorld**: World Models for Mobile Wireless Network. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.09462)]
