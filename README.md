@@ -73,6 +73,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟 a
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.  **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.13138)] [[Project](https://4dvlab.github.io/STAGE/)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **MoVieDrive**: Multi-Modal Multi-View Urban Scene Video Generation. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.14327)]
 - **ImagiDrive**: A Unified Imagination-and-Planning Framework for Autonomous Driving. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.11428)] [[Code](https://github.com/fudan-zvg/ImagiDrive)]
 - **LiDARCrafter**: Dynamic 4D World Modeling from LiDAR Sequences. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.03692)] [[Project](https://lidarcrafter.github.io/)]
 - **FASTopoWM**: Fast-Slow Lane Segment Topology Reasoning with Latent World Models. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.23325)]
