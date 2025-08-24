@@ -260,6 +260,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **Voyager**: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.04225)] [[Project](https://voyager-world.github.io/)]
 - **EWMBench**: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.09694)] [[Code](https://github.com/AgibotTech/EWMBench)]
 - **WoMAP**: World Models For Embodied Open-Vocabulary Object Localization. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01600)]
+- [**LoopNav**] Toward Memory-Aided World Models: Benchmarking via Spatial Consistency. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.20171)] [[Code](https://github.com/Kevin-lkw/LoopNav)] [[Data](https://huggingface.co/datasets/kevinLian/LoopNav)]
 - Long-Context State-Space Video World Models. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.20171)]
 - **Dyna-Think**: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2506.00320)]
 - [**WPE**] Evaluating Robot Policies in a World Model. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2506.00613)] [[Demo](https://world-model-eval.github.io/)]
