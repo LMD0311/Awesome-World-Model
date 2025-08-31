@@ -214,6 +214,8 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
+- [**DALI**] Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.20294)]
+- **HERO**: Hierarchical Extrapolation and Refresh for Efficient World Models. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.17588)]
 - **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.13009)] [[Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2)]
 - Visuomotor Grasping with World Models for Surgical Robots. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.11200)]
 - **Genie 3**: A new frontier for world models. **`Google DeepMind`** [[Blog](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)]
