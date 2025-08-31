@@ -236,6 +236,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **Sekai**: A Video Dataset towards World Exploration. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2506.15675)] [[Project](https://lixsp11.github.io/sekai-project/)]
 - **Dyn-O**: Building Structured World Models with Object-Centric Representations. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.03298)]
 - Critiques of World Models. **`arXiv 2025.7`** [[Paper](https://arxiv.org/abs/2507.05169)]
+- [**PEVA**] Whole-Body Conditioned Egocentric Video Prediction. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.21552)] [[Project](https://dannytran123.github.io/PEVA/)]
 - **World4Omni**: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23919)] [[Project](https://arxiv.org/abs/2506.23135)]
 - **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.23126)] [[Project](https://particleformer.github.io/)]
 - **RoboScape**: Physics-informed Embodied World Model. **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.22355)] [[Code](https://github.com/tsinghua-fib-lab/RoboScape)]
