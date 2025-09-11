@@ -1,10 +1,30 @@
-# Awesome World Models for Autonomous Driving [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![arXiv](https://img.shields.io/badge/Arxiv-2502.10498-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.10498)
+# Awesome World Models for Autonomous Driving
+
+#  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![arXiv](https://img.shields.io/badge/Arxiv-2502.10498-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.10498)
 
 This repo is used for recording, tracking, and benchmarking several recent World Models (for Autonomous Driving or Robotic) methods, as a supplement to our [**survey**](https://arxiv.org/abs/2502.10498).
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/LMD0311/Awesome-World-Model/blob/main/ContributionGuidelines.md), or [*open issues*](https://github.com/LMD0311/Awesome-World-Model/issues/new)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
 If you find this repository useful, please consider  **giving us a star** 🌟 and a [**cite**](https://github.com/LMD0311/Awesome-World-Model#citation).
+
+### 📚 Citation
+If you find this repository useful in your research, please kindly consider giving a star ⭐ and a citation:
+```bibtex
+@article{tu2025drivingworldmodel,
+      title={The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey}, 
+      author={Tu, Sifan and Zhou, Xin and Liang, Dingkang and Jiang, Xingyu and Zhang, Yumeng and Li, Xiaofan and Bai, Xiang},
+      journal={arXiv preprint arXiv:2502.10498},
+      year={2025}
+}
+
+@inproceedings{zhou2025hermes,
+  title={HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation},
+  author={Zhou, Xin and Liang, Dingkang and Tu, Sifan and Chen, Xiwu and Ding, Yikang and Zhang, Dingyuan and Tan, Feiyang and Zhao, Hengshuang and Bai, Xiang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2025}
+}
+```
 
 ## Workshop & Challenge
 
@@ -439,14 +459,3 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 
 ### 2018
 * World Models. **`NIPS 2018 Oral`** [[Paper](https://arxiv.org/pdf/1803.10122)]
-
-## Citation
-If you find this repository useful in your research, please consider giving a star ⭐ and a citation
-```bibtex
-@article{tu2025drivingworldmodel,
-      title={The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey}, 
-      author={Tu, Sifan and Zhou, Xin and Liang, Dingkang and Jiang, Xingyu and Zhang, Yumeng and Li, Xiaofan and Bai, Xiang},
-      journal={arXiv preprint arXiv:2502.10498},
-      year={2025}
-}
-```
