@@ -54,6 +54,7 @@ If you find this repository useful in your research, please kindly consider givi
 - A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 - World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)]
 - 3D and 4D World Modeling: A Survey. **`arXiv 2025.09`** [[Paper](https://arxiv.org/abs/2509.07996)] [[Code](https://github.com/worldbench/survey)]
+- One Flight Over the Gap: A Survey from Perspective to Panoramic Vision. **`arXiv 2025.09`** [[Paper](https://arxiv.org/abs/2509.04444)] [[Page](https://insta360-research-team.github.io/Survey-of-Panorama/)]
 - Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges. **`arXiv 2025.08`** [[Paper](https://arxiv.org/abs/2508.09561)]
 - A Survey: Learning Embodied Intelligence from Physical Simulators and World Models. **`arXiv 2025.07`** [[Paper](https://arxiv.org/abs/2507.00917)]
 - From 2D to 3D Cognition: A Brief Survey of General World Models. **`arXiv 2025.06`** [[Paper](https://arxiv.org/abs/2506.20134)]
