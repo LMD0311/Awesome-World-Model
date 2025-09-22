@@ -69,6 +69,7 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2025
+- **DINO-Foresight**: Looking into the Future with DINO. **`NeurIPS 25`** [[Paper](https://arxiv.org/abs/2412.11673)] [[Code](https://github.com/Sta8is/DINO-Foresight)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
 - **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2412.03934)] [[Project](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
 - **DiST-4D**: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2503.15208)] [[Project](https://royalmelon0505.github.io/DiST-4D/)]
@@ -161,7 +162,6 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **MagicDrive**: Street View Generation with Diverse 3D Geometry Control. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
 - **Copilot4D**: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2311.01017)]
 - **SafeDreamer**: Safe Reinforcement Learning with World Models. **`ICLR 2024`** [[Paper](https://openreview.net/forum?id=tsE5HLYtYg)] [[Code](https://github.com/PKU-Alignment/SafeDreamer)]
-- **DINO-Foresight**: Looking into the Future with DINO. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.11673)] [[Code](https://github.com/Sta8is/DINO-Foresight)]
 - **DrivingWorld**: Constructing World Model for Autonomous Driving via Video GPT. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.19505)] [[Code](https://github.com/YvanYin/DrivingWorld)]
 - **DrivingGPT**: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.18607)] [[Project](https://rogerchern.github.io/DrivingGPT/)]
 - An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training. **`arXiv 2024.12`** [[Paper](https://arxiv.org/abs/2412.13772)]
