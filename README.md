@@ -69,8 +69,8 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2025
-- **DINO-Foresight**: Looking into the Future with DINO. **`NeurIPS 25`** [[Paper](https://arxiv.org/abs/2412.11673)] [[Code](https://github.com/Sta8is/DINO-Foresight)]
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
+- **DINO-Foresight**: Looking into the Future with DINO. **`NeurIPS 25`** [[Paper](https://arxiv.org/abs/2412.11673)] [[Code](https://github.com/Sta8is/DINO-Foresight)]
 - **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2412.03934)] [[Project](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
 - **DiST-4D**: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2503.15208)] [[Project](https://royalmelon0505.github.io/DiST-4D/)]
 - **Epona**: Autoregressive Diffusion World Model for Autonomous Driving.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2506.24113)] [[Code](https://github.com/Kevin-thu/Epona/)]
