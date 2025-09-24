@@ -95,6 +95,7 @@ If you find this repository useful in your research, please kindly consider givi
 - [**SSR**] Does End-to-End Autonomous Driving Really Need Perception Tasks? **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2409.18341)] [[Code](https://github.com/PeidongLi/SSR)]
 - **Occ-LLM**: Enhancing Autonomous Driving with Occupancy-Based Large Language Models.  **`ICRA 2025`** [[Paper](https://arxiv.org/abs/2502.06419)]
 - **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.  **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.13138)] [[Project](https://4dvlab.github.io/STAGE/)]
+- Learning to Generate 4D LiDAR Sequences. **`ICCVW 2025`** [[Paper](https://arxiv.org/abs/2509.11959)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **TeraSim-World**: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.13164)]
 - **OccTENS**: 3D Occupancy World Model via Temporal Next-Scale Prediction. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.03887)]
