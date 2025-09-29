@@ -242,6 +242,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
 - **Surfer**: A World Model-Based Framework for Vision-Language Robot Manipulation. **`TNNLS 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11152367)]
+- **Context and Diversity Matter**: The Emergence of In-Context Learning in World Models. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.22353)]
 - **WoW**: Towards a World omniscient World model Through Embodied Interaction. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.22642)]
 - **KeyWorld**: Key Frame Reasoning Enables Effective and Efficient World Models. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.21027)] [[Code](https://anonymous.4open.science/r/Keyworld-E43D)]
 - [**Voe 3**] Video models are zero-shot learners and reasoners. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.20328)] [[Project](https://video-zero-shot.github.io/)]
