@@ -240,6 +240,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
 - **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
 - **Surfer**: A World Model-Based Framework for Vision-Language Robot Manipulation. **`TNNLS 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11152367)]
+- **SAMPO**: Scale-wise Autoregression with Motion PrOmpt for generative world models. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.15536)]
 - [**PIWM**] Enhancing Physical Consistency in Lightweight World Models. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.12437)] [[Project](https://physics-wm.github.io/)]
 - **LLM-JEPA**: Large Language Models Meet Joint Embedding Predictive Architectures. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.14252v1)] [[Code](https://github.com/rbalestr-lab/llm-jepa)]
 - **PhysicalAgent**: Towards General Cognitive Robotics with Foundation World Models. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.13903)]
