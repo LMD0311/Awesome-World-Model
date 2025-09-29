@@ -97,6 +97,7 @@ If you find this repository useful in your research, please kindly consider givi
 - **STAGE**: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation.  **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.13138)] [[Project](https://4dvlab.github.io/STAGE/)]
 - Learning to Generate 4D LiDAR Sequences. **`ICCVW 2025`** [[Paper](https://arxiv.org/abs/2509.11959)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- [**PhiGensis**] 4D Driving Scene Generation With Stereo Forcing. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.20251)] [[Project](https://jiangxb98.github.io/PhiGensis/)]
 - **TeraSim-World**: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.13164)]
 - **OccTENS**: 3D Occupancy World Model via Temporal Next-Scale Prediction. **`arXiv 2025.9`** [[Paper](https://arxiv.org/abs/2509.03887)]
 - [**G^2Editor**] Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation. **`arXiv 2025.8`** [[Paper](https://arxiv.org/abs/2508.20471)]
