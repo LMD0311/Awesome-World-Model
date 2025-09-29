@@ -220,6 +220,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 ## Other World Model Paper
 ### 2025
 - [**DreamerV3**] Mastering Diverse Domains through world Models. **`Nature`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[JAX Code](https://github.com/danijar/dreamerv3)]
+- Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds  **`NeurIPSW 25`** [[Paper](https://arxiv.org/abs/2509.15915)]
 - **NavMorph**: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2506.23468)] [[Code](https://github.com/Feliciaxyao/NavMorph)]
 - **GWM**: Towards Scalable Gaussian World Models for Robotic Manipulation **`ICCV 2025`** [[Paper](https://arxiv.org/abs/2508.17600)] [[Project](https://gaussian-world-model.github.io/)]
 - **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making. **`ICML 25`** [[Paper](https://arxiv.org/abs/2507.12496)] [[Project](https://sites.google.com/view/founder-rl)]
