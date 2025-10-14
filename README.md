@@ -1,6 +1,6 @@
 # Awesome World Models for Autonomous Driving
 
-#  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![arXiv](https://img.shields.io/badge/Arxiv-2502.10498-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.10498)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![arXiv](https://img.shields.io/badge/Arxiv-2502.10498-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.10498)
 
 This repo is used for recording, tracking, and benchmarking several recent World Models (for Autonomous Driving or Robotic) methods, as a supplement to our [**survey**](https://arxiv.org/abs/2502.10498).
 
@@ -8,7 +8,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 If you find this repository useful, please consider  **giving us a star** 🌟 and a [**cite**](https://github.com/LMD0311/Awesome-World-Model#citation).
 
-### 📚 Citation
+## 📚 Citation
 If you find this repository useful in your research, please kindly consider giving a star ⭐ and a citation:
 ```bibtex
 @article{tu2025drivingworldmodel,
@@ -252,6 +252,7 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - What You Don't Know Can Hurt You: How Well do Latent Safety Filters Understand Partially Observable Safety Constraints? **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.06492)]
 - Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.07092)]
 - **WristWorld**: Generating Wrist-Views via 4D World Models for Robotic Manipulation. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.07313)]
+- **Ctrl-World**: A Controllable Generative World Model for Robot Manipulation. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.10125)]
 - Active Confusion Expression in Large Language Models: Leveraging World Models toward Better Social Reasoning. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.07974)]
 - **VideoVerse**: How Far is Your T2V Generator from a World Model? **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.08398)]
 - Internal World Models as Imagination Networks in Cognitive Agents. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.04391)]
