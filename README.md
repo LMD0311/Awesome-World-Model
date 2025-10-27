@@ -53,6 +53,7 @@ If you find this repository useful in your research, please kindly consider givi
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`arXiv 2025.02`** [[Paper](https://arxiv.org/abs/2502.10498)]
 - A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 - World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)]
+- A Comprehensive Survey on World Models for Embodied AI. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.16732)] [[Project](https://github.com/Li-Zn-H/AwesomeWorldModels)]
 - The Safety Challenge of World Models for Embodied AI Agents: A Review. **`arXiv 2025.10`** [[Paper](https://arxiv.org/abs/2510.05865)]
 - A Survey on World Models Grounded in Acoustic Physical Information. **`arXiv 2025.09`** [[Paper](https://arxiv.org/abs/2506.13833)]
 - From 2D to 3D Cognition: A Brief Survey of General World Models. **`arXiv 2025.09`** [[Paper](https://arxiv.org/abs/2506.20134)]
