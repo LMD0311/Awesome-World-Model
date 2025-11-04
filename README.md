@@ -44,7 +44,8 @@ If you find this repository useful in your research, please kindly consider givi
 ### Technical blog or video
 
 - **`Yann LeCun`**: A Path Towards Autonomous Machine Intelligence [[paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)] [[Video](https://www.youtube.com/watch?v=OKkEdTchsiE)]
-- **`CVPR'23 WAD`** Keynote - Ashok Elluswamy, Tesla [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
+- **`ICCV'25 workshop`** Keynote - Ashok Elluswamy, Tesla [[Video](https://www.bilibili.com/video/BV1oasHzTEe3/?vd_source=9ef518a6c349809d9fa8ab9427bd8b2c)]
+- **`CVPR'23 workshop`** Keynote - Ashok Elluswamy, Tesla [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
 - **`Wayve`** Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy [[blog](https://wayve.ai/thinking/introducing-gaia1/)] 
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations.
   
