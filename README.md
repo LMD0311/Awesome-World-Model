@@ -24,6 +24,13 @@ If you find this repository useful in your research, please kindly consider givi
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2025}
 }
+
+@article{liang2025UniFuture,
+  title={Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception},
+  author={Liang, Dingkang and Zhang, Dingyuan and Zhou, Xin and Tu, Sifan and Feng, Tianrui and Li, Xiaofan and Zhang, Yumeng and Du, Mingyang and Tan, Xiao and Bai, Xiang},
+  journal={arXiv preprint arXiv:2503.13587},
+  year={2025}
+}
 ```
 
 ## Workshop & Challenge
@@ -80,6 +87,7 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2025
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
+- [**FSDrive**] FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. **`NeurIPS 25`** [[Paper](https://arxiv.org/abs/2505.17685)] [[Code](https://github.com/MIV-XJTU/FSDrive)]
 - **DINO-Foresight**: Looking into the Future with DINO. **`NeurIPS 25`** [[Paper](https://arxiv.org/abs/2412.11673)] [[Code](https://github.com/Sta8is/DINO-Foresight)]
 - **From Forecasting to Planning**: Policy World Model for Collaborative State-Action Prediction. **`NeurIPS 25`** [[Paper](https://arxiv.org/abs/2510.19654)] [[Code](https://github.com/6550Zhao/Policy-World-Model)]
 - **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2412.03934)] [[Project](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
@@ -149,7 +157,6 @@ If you find this repository useful in your research, please kindly consider givi
 - **Cosmos-Drive-Dreams**: Scalable Synthetic Driving Data Generation with World Foundation Models.  **`arXiv 2025.6`** **`NVIDIA`** [[Paper](https://arxiv.org/abs/2506.09042)] [[Project](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)]
 - **Dreamland**: Controllable World Creation with Simulator and Generative Models.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.08006)] [[Project](https://metadriverse.github.io/dreamland/)]
 - **LongDWM**: Cross-Granularity Distillation for Building a Long-Term Driving World Model.  **`arXiv 2025.6`** [[Paper](https://arxiv.org/abs/2506.01546)] [[Code](https://wang-xiaodong1899.github.io/longdwm/)]
-- **FutureSightDrive**: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.17685)] [[Code](https://github.com/MIV-XJTU/FSDrive)]
 - **ProphetDWM**: ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos. **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.18650)]
 - **GeoDrive**: 3D Geometry-Informed Driving World Model with Precise Action Control.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.22421)] [[Code](https://github.com/antonioo-c/GeoDrive)]
 - **DriveX**: Omni Scene Modeling for Learning Generalizable World Knowledge in
@@ -271,14 +278,15 @@ Autonomous Driving.  **`arXiv 2025.5`** [[Paper](https://arxiv.org/abs/2505.1923
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models.  **`CVPR 25`** [[Paper](https://arxiv.org/abs/2503.22020)] [[Project](https://cot-vla.github.io/)]
 - **EchoWorld**: Learning Motion-Aware World Models for Echocardiography Probe Guidance. **`CVPR 25`** [[Paper](https://arxiv.org/abs/2504.13065)] [[Code](https://github.com/LeapLabTHU/EchoWorld)]
 - **DiWA**: Diffusion Policy Adaptation with World Models. **`CoRL 25`** [[Paper](https://arxiv.org/abs/2508.03645)] [[Project](https://diwa.cs.uni-freiburg.de/)]
-- **Simulating Before Planning**: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning. **`SIGIR 2025`** [[Paper](https://arxiv.org/abs/2504.13643)] 
-- **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 2025 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
-- **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 2025`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
-- [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 2025`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
-- **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 2025`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
-- **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 2025`** [[Paper](https://arxiv.org/pdf/2502.09923)]
-- **Surfer**: A World Model-Based Framework for Vision-Language Robot Manipulation. **`TNNLS 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11152367)]
-- Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling. **`World Modeling Workshop 2025`** [[Paper](https://arxiv.org/abs/2512.05809)] [[Code](https://github.com/chandar-lab/visa-for-mindjourney)]
+- **Simulating Before Planning**: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning. **`SIGIR 25`** [[Paper](https://arxiv.org/abs/2504.13643)] 
+- **LS-Imagine**: Open-World Reinforcement Learning over Long Short-Term Imagination. **`ICLR 25 Oral`** [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Code](https://github.com/qiwang067/LS-Imagine)]
+- **DC-MPC**: Discrete Codebook World Models for Continuous Control.  **`ICLR 25`** [[Paper](https://openreview.net/forum?id=lfRYzd8ady)] [[Code](https://github.com/aidanscannell/dcmpc)]
+- [**SGF**] Simple, Good, Fast: Self-Supervised World Models Free of Baggage.  **`ICLR 25`** [[Paper](https://arxiv.org/abs/2506.02612)] [[Code](https://github.com/jrobine/sgf)]
+- **ManiGaussian++**: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. **`IROS 25`** [[Paper](https://arxiv.org/abs/2506.19842)] [[Code](https://github.com/April-Yz/ManiGaussian_Bimanual)]
+- **SCMA**: Self-Consistent Model-based Adaptation for Visual Reinforcement Learning. **`IJCAI 25`** [[Paper](https://arxiv.org/pdf/2502.09923)]
+- **Surfer**: A World Model-Based Framework for Vision-Language Robot Manipulation. **`TNNLS 25`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11152367)]
+- Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2512.05809)] [[Code](https://github.com/chandar-lab/visa-for-mindjourney)]
+- **On Memory**: A comparison of memory mechanisms in world models. **`World Modeling Workshop 26`** [[Paper](https://www.arxiv.org/abs/2512.06983)]
 - **Zero-Splat TeleAssist**: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation. **`ICRAW 2025`** [[Paper](https://arxiv.org/abs/2512.08271)]
 - **Astra**: General Interactive World Model with Autoregressive Denoising. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.08931)] [[Code](https://github.com/EternalEvan/Astra)]
 - **Visionary**: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.08478)]
