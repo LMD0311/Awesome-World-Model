@@ -59,7 +59,9 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### Survey
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`arXiv 2025.02`** [[Paper](https://arxiv.org/abs/2502.10498)]
-- A survey on multimodal large language models for autonomous driving. **`WACVW 2024`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
+- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`TMECH 2025`** [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
+- A Survey on Future Physical World Generation for Autonomous Driving. **`MMAsia 25`** [[Paper](https://dl.acm.org/doi/full/10.1145/3769748.3773345)]
+- A survey on multimodal large language models for autonomous driving. **`WACVW 24`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
 - World Models: The Safety Perspective. **`ISSREW`** [[Paper](https://arxiv.org/abs/2411.07690)]
 - Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook. **`techrXiv 2025.11`** [[Paper](https://doi.org/10.36227/techrxiv.176523308.84756413/v1)] [[Project](https://github.com/MoyangSensei/AwesomeRobustDWM)]
 - A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges. **`techrXiv 2025.11`** [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176289261.16802577)]
@@ -81,9 +83,8 @@ If you find this repository useful in your research, please kindly consider givi
 - Generative Physical AI in Vision: A Survey. **`arXiv 2025.01`** [[Paper](https://arxiv.org/abs/2501.10928)] [[Code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)]
 - Understanding World or Predicting Future? A Comprehensive Survey of World Models. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.14499)]
 - Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey. **`arXiv 2024.11`** [[Paper](https://arxiv.org/abs/2411.02914)]
-- Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`arXiv 2024.7`** [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
 - Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. **`arXiv 2024.5`** [[Paper](https://arxiv.org/abs/2405.03520)] [[Code](https://github.com/GigaAI-research/General-World-Models-Survey)]
-- World Models for Autonomous Driving: An Initial Survey. **`2024.3, arxiv`** [[Paper](https://arxiv.org/abs/2403.02622)]
+- World Models for Autonomous Driving: An Initial Survey. **`arxiv 2024.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2025
 - **HERMES**: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.  **`ICCV 25`** [[Paper](https://arxiv.org/abs/2505.16394)] [[Code](https://github.com/LMD0311/HERMES)] [[Project](https://lmd0311.github.io/HERMES/)]
