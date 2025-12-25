@@ -121,6 +121,7 @@ If you find this repository useful in your research, please kindly consider givi
 - World model-based end-to-end scene generation for accident anticipation in autonomous driving. **`Communications Engineering 2025`** [[Paper](https://www.nature.com/articles/s44172-025-00474-7)]
 - World Models for Autonomous Navigation of Terrestrial Robots from LIDAR Observations. **`JIFS 2025`** [[Paper](https://arxiv.org/abs/2512.03429)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`arXiv 2025.3`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
 - Latent Chain-of-Thought World Modeling for End-to-End Driving. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.10226)]
 - **GenieDrive**: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.12751)] [[Project](https://huster-yzy.github.io/geniedrive_project_page/)]
 - **WorldLens**: Full-Spectrum Evaluations of Driving World Models in Real World. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.10958)] [[Project](https://worldbench.github.io/worldlens)]
