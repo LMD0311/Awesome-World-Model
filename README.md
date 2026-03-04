@@ -87,6 +87,7 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2026
+- **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
 - [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **WorldRFT**: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving.  **`AAAI 26`** [[Paper](https://arxiv.org/abs/2512.19133)]
 - **UniDrive-WM**: Unified Understanding, Planning and Generation World Model For Autonomous Driving. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.04453)] [[Project](https://unidrive-wm.github.io/UniDrive-WM)]
@@ -130,7 +131,6 @@ If you find this repository useful in your research, please kindly consider givi
 - Learning to Generate 4D LiDAR Sequences. **`ICCVW 2025`** [[Paper](https://arxiv.org/abs/2509.11959)]
 - World model-based end-to-end scene generation for accident anticipation in autonomous driving. **`Communications Engineering 2025`** [[Paper](https://www.nature.com/articles/s44172-025-00474-7)]
 - World Models for Autonomous Navigation of Terrestrial Robots from LIDAR Observations. **`JIFS 2025`** [[Paper](https://arxiv.org/abs/2512.03429)]
-- **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
 - Latent Chain-of-Thought World Modeling for End-to-End Driving. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.10226)]
 - **GenieDrive**: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.12751)] [[Project](https://huster-yzy.github.io/geniedrive_project_page/)]
 - **WorldLens**: Full-Spectrum Evaluations of Driving World Models in Real World. **`arXiv 2025.12`** [[Paper](https://arxiv.org/abs/2512.10958)] [[Project](https://worldbench.github.io/worldlens)]
