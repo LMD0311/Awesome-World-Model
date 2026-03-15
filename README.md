@@ -26,7 +26,7 @@ If you find this repository useful in your research, please kindly consider givi
 }
 
 @inproceedings{liang2025UniFuture,
-  title={Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception},
+  title={UniFuture: A 4D Driving World Model for Future Generation and Perception},
   author={Liang, Dingkang and Zhang, Dingyuan and Zhou, Xin and Tu, Sifan and Feng, Tianrui and Li, Xiaofan and Zhang, Yumeng and Du, Mingyang and Tan, Xiao and Bai, Xiang},
   booktitle={Proceedings of the IEEE International Conference on Robotics Automation},
   year={2026}
@@ -87,9 +87,17 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2026
+- [**UniFuture**] UniFuture: A 4D Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **RAYNOVA**: Scale-Temporal Autoregressive World Modeling in Ray Space. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2602.20685)] [[Project](https://raynova-ai.github.io/)]
 - **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
-- [**UniFuture**] Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **ResWorld**: Temporal Residual World Model for End-to-End Autonomous Driving. **`ICLR 26`** [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 - **WorldRFT**: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving.  **`AAAI 26`** [[Paper](https://arxiv.org/abs/2512.19133)]
+- **DynVLA**: Learning World Dynamics for Action Reasoning in Autonomous Driving. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11041)]
+- Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.09086)]
+- **SAMoE-VLA**: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.08113)]
+- Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07264)]
+- **ShareVerse**: Multi-Agent Consistent Video Generation for Shared World Modeling. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.02697)]
+- Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.23259)]
 - **UniDrive-WM**: Unified Understanding, Planning and Generation World Model For Autonomous Driving. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.04453)] [[Project](https://unidrive-wm.github.io/UniDrive-WM)]
 - **MAD**: Motion Appearance Decoupling for efficient Driving World Models. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.09452)] [[Project](https://vita-epfl.github.io/MAD-World-Model/)]
 - A Mechanistic View on Video Generation as World Models: State and Dynamics. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.17067)]
@@ -335,9 +343,53 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 
 ## Other World Model Paper
 ### 2026
+- Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2603.05438)]
+- **GeoWorld**: Geometric World Models. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2602.23058)] [[Project](https://steve-zeyu-zhang.github.io/GeoWorld)]
 - [**EAWM**] From Observations to Events: Event-Aware World Model for Reinforcement Learning. **`ICLR 26`** [[Paper](https://arxiv.org/abs/2601.19336)] [[Code](https://github.com/MarquisDarwin/EAWM)]
+- **NeuroHex**: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI. **`NICE 26`** [[Paper](https://arxiv.org/abs/2603.00376)]
+- Foundation World Models for Agents that Learn, Verify, and Adapt Reliably Beyond Static Environments. **`AAMAS 26`** [[Paper](https://arxiv.org/abs/2602.23997)]
+- Probabilistic Dreaming for World Models. **`ICLRW 26`** [[Paper](https://arxiv.org/abs/2603.04715)]
 - Value-guided action planning with JEPA world models. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2601.00844)]
+- Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2603.07039)] [[Project](https://github.com/legel/deepearth)]
 - Explicit World Models for Reliable Human-Robot Collaboration. **`AAAIW 26`** [[Paper](https://arxiv.org/abs/2601.01705)]
+- **InSpatio-WorldFM**: An Open-Source Real-Time Generative Frame Model. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11911)] [[Project](https://inspatio.github.io/worldfm/)]
+- **ResWM**: Residual-Action World Model for Visual RL. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11110)]
+- **World2Act**: Latent Action Post-Training via Skill-Compositional World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.10422)] [[Project](https://wm2act.github.io/)]
+- **MWM**: Mobile World Models for Action-Conditioned Consistent Prediction. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07799)] [[Code](https://arxiv.org/abs/2603.07799)]
+- **DreamSAC**: Learning Hamiltonian World Models via Symmetry Exploration. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07545)]
+- **LiveWorld**: Simulating Out-of-Sight Dynamics in Generative Video World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07145)]
+- **WorldCache**: Accelerating World Models for Free via Heterogeneous Token Caching. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.06331)] [[Project](https://github.com/FofGofx/WorldCache)]
+- World Properties without World Models: Recovering Spatial and Temporal Structure from Co-occurrence Statistics in Static Word Embeddings. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.04317)]
+- Beyond Pixel Histories: World Models with Persistent 3D State. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.03482)]
+- **DreamWorld**: Unified World Modeling in Video Generation. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.00466)]
+- **MetaOthello**: A Controlled Study of Multiple World Models in Transformers. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.23164)]
+- The Trinity of Consistency as a Defining Principle for General World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.23152)]
+- **UCM**: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.22960)] [[Project](https://humanaigc.github.io/ucm-webpage/)]
+- **CWM**: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.22452)]
+- **Solaris**: Building a Multiplayer Video World Model in Minecraft. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.22208)] [[Project](https://solaris-wm.github.io/)]
+- When World Models Dream Wrong: Physical-Conditioned Adversarial Attacks against World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.18739)]
+- Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.18639)]
+- Factored Latent Action World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.16229)]
+- [**DreamZero**] World Action Models are Zero-shot Policies. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.15922)] [[Project](https://dreamzero0.github.io/)]
+- **VLM-DEWM**: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.15549)]
+- Self-Supervised JEPA-based World Models for LiDAR Occupancy Completion and Forecasting. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.12540)]
+- GigaBrain-0.5M: a VLA That Learns From World Model-Based Reinforcement Learning. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.12099)] [[Project](https://gigabrain05m.github.io/)]
+- **VLAW**: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.12063)] [[Project](https://sites.google.com/view/vlaw-arxiv)]
+- Scaling World Model for Hierarchical Manipulation Policies. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10983)] [[Project](https://vista-wm.github.io/)]
+- Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10717)]
+- **Olaf-World**: Orienting Latent Actions for Video World Modeling. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10104)] [[Project](https://showlab.github.io/Olaf-World/)]
+- **VLA-JEPA**: Enhancing Vision-Language-Action Model with Latent World Model. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10098)]
+- **Agent World Model**: Infinity Synthetic Environments for Agentic Reinforcement Learning. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10090)] [[Code](https://github.com/Snowflake-Labs/agent-world-model)]
+- **MVISTA-4D**: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.09878)]
+- **WorldArena**: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.08971)]
+- **MIND**: Benchmarking Memory Consistency and Action Control in World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.08025)] [[Code](https://github.com/CSU-JPG/MIND)]
+- Cross-View World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.07277)]
+- Interpreting Physics in Video World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.07050)]
+- **DreamDojo**: A Generalist Robot World Model from Large-Scale Human Videos. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.06949)] [[Project](https://dreamdojo-world.github.io/)]
+- **World-VLA-Loop**: Closed-Loop Learning of Video World Model and VLA Policy. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.06508)] [[Project](https://showlab.github.io/World-VLA-Loop/)]
+- Self-Improving World Modelling with Latent Actions. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.06130)]
+- **BridgeV2W**: Bridging Video Generation Models to Embodied World Models via Embodiment Masks. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.03793)] [[Project](https://bridgev2w.github.io/)]
+- **LIVE**: Long-horizon Interactive Video World Modeling. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.03747)]
 - [**Lingbot-World**] Advancing Open-source World Models. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.20540)] [[Code](https://github.com/robbyant/lingbot-world)]
 - [**Lingbot-VA**] Causal World Modeling for Robot Control. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.21998)] [[Code](https://github.com/robbyant/lingbot-va)]
 - **PathWise**: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.20539)]
