@@ -295,6 +295,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **InSpatio-WorldFM**: An Open-Source Real-Time Generative Frame Model. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11911)] [[Project](https://inspatio.github.io/worldfm/)]
 - **ResWM**: Residual-Action World Model for Visual RL. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11110)]
 - **World2Act**: Latent Action Post-Training via Skill-Compositional World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.10422)] [[Project](https://wm2act.github.io/)]
+- **RAE-NWM**: Navigation World Model in Dense Visual Representation Space. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.09241)] [[Code](https://github.com/20robo/raenwm)]
 - **MWM**: Mobile World Models for Action-Conditioned Consistent Prediction. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07799)]
 - **DreamSAC**: Learning Hamiltonian World Models via Symmetry Exploration. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07545)]
 - **LiveWorld**: Simulating Out-of-Sight Dynamics in Generative Video World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.07145)]
