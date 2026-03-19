@@ -91,6 +91,7 @@ If you find this repository useful in your research, please kindly consider givi
 - **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
 - **ResWorld**: Temporal Residual World Model for End-to-End Autonomous Driving. **`ICLR 26`** [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 - **WorldRFT**: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving.  **`AAAI 26`** [[Paper](https://arxiv.org/abs/2512.19133)]
+- [**WorldDrive**] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.14948)]  [[Code](https://github.com/TabGuigui/WorldDrive)]
 - **DynVLA**: Learning World Dynamics for Action Reasoning in Autonomous Driving. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11041)]
 - Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.09086)]
 - **SAMoE-VLA**: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.08113)]
