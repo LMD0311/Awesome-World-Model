@@ -334,6 +334,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **VLA-JEPA**: Enhancing Vision-Language-Action Model with Latent World Model. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10098)]
 - **Agent World Model**: Infinity Synthetic Environments for Agentic Reinforcement Learning. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.10090)] [[Code](https://github.com/Snowflake-Labs/agent-world-model)]
 - **MVISTA-4D**: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.09878)]
+- **Hand2World**: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.09600)] [[Project](https://hand2world.github.io/)]
 - **WorldArena**: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.08971)]
 - **MIND**: Benchmarking Memory Consistency and Action Control in World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.08025)] [[Code](https://github.com/CSU-JPG/MIND)]
 - Cross-View World Models. **`arXiv 26.2`** [[Paper](https://arxiv.org/abs/2602.07277)]
