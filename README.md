@@ -383,7 +383,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - An Efficient and Multi-Modal Navigation System with One-Step World Model. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.12277)]
 - **ReWorld**: Multi-Dimensional Reward Modeling for Embodied World Models. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.12428)]
 - Action Shapley: A Training Data Selection Metric for World Model in Reinforcement Learning. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.10905)]
-- Inference-time Physics Alignment of Video Generative Models with Latent World Models. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.10553)]
+- Inference-time Physics Alignment of Video Generative Models with Latent World Models. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2601.10553)] [[Code](https://github.com/facebookresearch/WMReward)]
 - Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.08955)]
 - Semantic Belief-State World Model for 3D Human Motion Prediction. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.03517)]
 - **PointWorld**: Scaling 3D World Models for In-The-Wild Robotic Manipulation. **`arXiv 26.1`** [[Paper](https://arxiv.org/abs/2601.03782)] [[Project](https://point-world.github.io/)]
