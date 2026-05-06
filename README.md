@@ -310,6 +310,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - Value-guided action planning with JEPA world models. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2601.00844)]
 - Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2603.07039)] [[Project](https://github.com/legel/deepearth)]
 - Explicit World Models for Reliable Human-Robot Collaboration. **`AAAIW 26`** [[Paper](https://arxiv.org/abs/2601.01705)]
+- [**Helios**] Real Real-Time Long Video Generation Model. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.04379)] [[Code](https://github.com/PKU-YuanGroup/Helios)] [[Project](https://pku-yuangroup.github.io/Helios-Page/)]
 - [**HyDRA**] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/pdf/2603.25716)] [[Code](https://github.com/H-EmbodVis/HyDRA)] [[Project](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)]
 - Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25685)]
 - **MMaDA-VLA**: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25406)]
