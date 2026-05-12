@@ -38,6 +38,13 @@ If you find this repository useful in your research, please kindly consider givi
   journal={arXiv preprint arXiv:2603.25716},
   year={2026}
 }
+
+@article{zhou2026hermespp,
+  title={HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation},
+  author={Zhou, Xin and Liang, Dingkang and Chen, Xiwu and Tan, Feiyang and Zhang, Dingyuan and Zhao, Hengshuang and Bai, Xiang},
+  journal={arXiv preprint arXiv:2604.28196},
+  year={2026}
+}
 ```
 
 ## Workshop & Challenge
@@ -98,6 +105,7 @@ If you find this repository useful in your research, please kindly consider givi
 - **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
 - **ResWorld**: Temporal Residual World Model for End-to-End Autonomous Driving. **`ICLR 26`** [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 - **WorldRFT**: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving.  **`AAAI 26`** [[Paper](https://arxiv.org/abs/2512.19133)]
+- **HERMES++**: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2604.28196)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] [[Project](https://h-embodvis.github.io/HERMESV2/)]
 - **X-World**: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.19979)]
 - **Vega**: Learning to Drive with Natural Language Instructions. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25741)] [[Code](https://github.com/zuosc19/Vega)]
 - **DCARL**: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.24835)] [[Project](https://junyiouy.github.io/projects/dcarl)]
