@@ -72,6 +72,7 @@ If you find this repository useful in your research, please kindly consider givi
   
 
 ### Survey
+- Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. **`arXiv 26.05`** [[Paper](https://arxiv.org/abs/2605.02900)] [[Code](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)]
 - The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`arXiv 25.02`** [[Paper](https://arxiv.org/abs/2502.10498)]
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`TMECH 25`** [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
 - A Survey on Future Physical World Generation for Autonomous Driving. **`MMAsia 25`** [[Paper](https://dl.acm.org/doi/full/10.1145/3769748.3773345)]
