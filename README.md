@@ -100,6 +100,7 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2026
+- **PerceptUI**: PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation. **`arXiv 05.6`** [[Paper](https://arxiv.org/abs/2606.05697)]
 - [**UniFuture**] UniFuture: A 4D Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **RAYNOVA**: Scale-Temporal Autoregressive World Modeling in Ray Space. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2602.20685)] [[Project](https://raynova-ai.github.io/)]
 - **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
