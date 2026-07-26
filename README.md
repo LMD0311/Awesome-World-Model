@@ -14,8 +14,8 @@ If you find this repository useful in your research, please kindly consider givi
 @article{tu2025drivingworldmodel,
   title={The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey}, 
   author={Tu, Sifan and Zhou, Xin and Liang, Dingkang and Jiang, Xingyu and Zhang, Yumeng and Li, Xiaofan and Bai, Xiang},
-  journal={arXiv preprint arXiv:2502.10498},
-  year={2025}
+  journal={Frontiers of Computer Science},
+  year={2026}
 }
 
 @inproceedings{zhou2025hermes,
@@ -45,6 +45,13 @@ If you find this repository useful in your research, please kindly consider givi
   journal={arXiv preprint arXiv:2604.28196},
   year={2026}
 }
+
+@inproceedings{xiao2026divide,
+  title={Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models},
+  author={Xiao, Junyuan and Liang, Dingkang and Zhou, Xin and Ye, Yixuan and Su, Tongtong and Yi, Guangmo and Xia, Bin and Lyu, Qiang and Shi, Shurui and Huang, Jun and Si, Jianlou and Yang, Wenming},
+  booktitle={European Conference on Computer Vision},
+  year={2026}
+}
 ```
 
 ## Workshop & Challenge
@@ -72,8 +79,11 @@ If you find this repository useful in your research, please kindly consider givi
   
 
 ### Survey
+- The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`FCS 26`** [[Paper](https://arxiv.org/abs/2502.10498)] [[Journal](https://journal.hep.com.cn/fcs/EN/home)]
+- From World Models to World Action Models: A Concise Tutorial for Robotics. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.00836)]
+- Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.13840)]
+- A Tutorial on World Models and Physical AI. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.12783)]
 - Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. **`arXiv 26.05`** [[Paper](https://arxiv.org/abs/2605.02900)] [[Code](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)]
-- The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`arXiv 25.02`** [[Paper](https://arxiv.org/abs/2502.10498)]
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`TMECH 25`** [[Paper](https://arxiv.org/abs/2407.06886)] [[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)]
 - A Survey on Future Physical World Generation for Autonomous Driving. **`MMAsia 25`** [[Paper](https://dl.acm.org/doi/full/10.1145/3769748.3773345)]
 - A survey on multimodal large language models for autonomous driving. **`WACVW 24`** [[Paper](https://arxiv.org/abs/2311.12320)] [[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)]
@@ -101,14 +111,43 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2026
-- **PerceptUI**: PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation. **`arXiv 05.6`** [[Paper](https://arxiv.org/abs/2606.05697)]
 - [**UniFuture**] UniFuture: A 4D Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
+- **HERMES++**: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2604.28196)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] [[Project](https://h-embodvis.github.io/HERMESV2/)]
 - **RAYNOVA**: Scale-Temporal Autoregressive World Modeling in Ray Space. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2602.20685)] [[Project](https://raynova-ai.github.io/)]
 - **WAM-Flow**: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2512.06112)] [[Code](https://github.com/fudan-generative-vision/WAM-Flow)]
 - See Tomorrow, Act Today: Foresight-Driven Autonomous Driving. **`CVPR 26 Findings`** [[Paper](https://arxiv.org/abs/2605.07195)]
 - **ResWorld**: Temporal Residual World Model for End-to-End Autonomous Driving. **`ICLR 26`** [[Paper](https://arxiv.org/abs/2602.10884)] [[Code](https://github.com/mengtan00/ResWorld.git)]
 - **WorldRFT**: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving.  **`AAAI 26`** [[Paper](https://arxiv.org/abs/2512.19133)]
-- **HERMES++**: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2604.28196)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] [[Project](https://h-embodvis.github.io/HERMESV2/)]
+- **HyWorldVLA**: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.20988)]
+- **GeoWorldAD**: Geometry World Action Model for Autonomous Driving. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.17521)]
+- **Orbis 2**: A Hierarchical World Model for Driving. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.15898)]
+- **M4World**: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.14005)]
+- Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.13410)]
+- **LIDAR-AD**: A Decoder-Free Latent-Interaction Dreamer with Action-Residual Chains for Autonomous Driving. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.11964)]
+- Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.10781)]
+- World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.10630)]
+- **WCog-VLA**: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.08375)]
+- **CRISP**: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.04541)]
+- Geographic Diversity Beats Data Volume for Cross-Domain Generalization in Zero-Label JEPA Driving World Models. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.04500)]
+- **ForgeDrive**: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.31226)]
+- Long-term Traffic Simulation via Structured Autoregressive Modeling. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.31209)]
+- **OWMDrive**: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.30421)]
+- **LWDrive**: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.29879)]
+- **X-Mind**: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.28758)]
+- A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.28757)]
+- **CascadeOcc**: Rethinking 3D Occupancy World Models with Cascaded VQ Representations. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.27644)]
+- **ReWorld**: Learning Better Representations for World Action Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.27504)]
+- **BadDreamer**: Transferable Backdoor Attacks against Video World Models for Autonomous Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.21172)]
+- **OmniDrive**: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.17536)]
+- **GraphWorld**: Long-Horizon Planning with World Models for End-to-End Autonomous Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.16274)]
+- **CausalDrive**: Real-time Causal World Models for Autonomous Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.15341)]
+- **ReactSim-Bench**: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.14058)]
+- **VISA**: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.13460)]
+- Diffusion Transformer World-Action Model for AV Scene Prediction. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.12987)]
+- **PLAN-S**: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.06014)]
+- **Discrete-WAM**: Unified Discrete Vision-Action Token Editing for World-Policy Learning. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.05645)]
+- **NVIDIA OmniDreams**: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.03159)]
+- **Unified Driving Tokens**: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.01935)]
 - **Xiaomi EV World Model**: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2605.18137)]
 - **DriveCtrl**: Conditioned Sim-to-Real Driving Video Generation. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2605.15116)]
 - **CoWorld-VLA**: Thinking in a Multi-Expert World Model for Autonomous Driving. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2605.10426)]
@@ -318,6 +357,9 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 > Due to the large number of relevant papers, we will no longer update the list of related papers (related to general world models and robotics), but we still welcome contributions from the community. If you have a paper you’d like to add, please feel free to submit a pull request.
 
 ### 2026
+- [**HyDRA**] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25716)] [[Code](https://github.com/H-EmbodVis/HyDRA)] [[Project](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)]
+- [**VEGA-3D**] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. **`ECCV 26`** [[Paper](https://arxiv.org/abs/2603.19235)] [[Code](https://github.com/H-EmbodVis/VEGA-3D)]
+- **Divide and Conquer**: Decoupled Representation Alignment for Multimodal World Models. **`ECCV 26`** [[Paper](https://arxiv.org/abs/2605.01896)]
 - Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2603.05438)]
 - **GeoWorld**: Geometric World Models. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2602.23058)] [[Project](https://steve-zeyu-zhang.github.io/GeoWorld)]
 - [**EAWM**] From Observations to Events: Event-Aware World Model for Reinforcement Learning. **`ICLR 26`** [[Paper](https://arxiv.org/abs/2601.19336)] [[Code](https://github.com/MarquisDarwin/EAWM)]
@@ -330,9 +372,29 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - Value-guided action planning with JEPA world models. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2601.00844)]
 - Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding. **`World Modeling Workshop 26`** [[Paper](https://arxiv.org/abs/2603.07039)] [[Project](https://github.com/legel/deepearth)]
 - Explicit World Models for Reliable Human-Robot Collaboration. **`AAAIW 26`** [[Paper](https://arxiv.org/abs/2601.01705)]
-- **Divide and Conquer**: Decoupled Representation Alignment for Multimodal World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2605.01896)]
+- Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.21594)]
+- **KineBench**: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.19876)]
+- Masked Visual Actions for Unified World Modeling. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.19343)]
+- **ABot-World-0**: Infinite Interactive World Rollout on a Single Desktop GPU. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.19191)]
+- **DriftWorld**: Fast World Modeling through Drifting. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.15065)]
+- **AeroAct**: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.14997)]
+- **MECo-WAM**: Learning 4D Geometric Priors for Inference-Efficient World Action Models. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.05468)]
+- **RoboWorld**: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.01060)]
+- 3D Point World Models: Point Completion Enables More Accurate Dynamics Learning. **`arXiv 26.7`** [[Paper](https://arxiv.org/abs/2607.00148)]
+- **DVG-WM**: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.32028)]
+- **ViPSim**: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.28804)]
+- **Qwen-RobotWorld**: Unifying Embodied World Modeling through Language-Conditioned Video Generation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.17030)]
+- **WorldOlympiad**: Can Your World Model Survive a Triathlon? **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.11129)]
+- **MotionWAM**: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.09215)]
+- **WorldFly**: A World-Model-Based Vision-Language-Action Model for UAV Navigation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.06147)]
+- World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.05979)]
+- **PiL-World**: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.05773)]
+- **OSCAR**: Omni-Embodiment Action-Conditioned World Model for Robotics. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.04463)]
+- **AirDreamer**: Generalist Drone Navigation with World Models. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.03252)]
+- **Cosmos 3**: Omnimodal World Models for Physical AI. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.02800)]
+- **RoboDream**: Compositional World Models for Scalable Robot Data Synthesis. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.02577)]
+- **RoboTrustBench**: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation. **`arXiv 26.6`** [[Paper](https://arxiv.org/abs/2606.01600)]
 - [**Helios**] Real Real-Time Long Video Generation Model. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.04379)] [[Code](https://github.com/PKU-YuanGroup/Helios)] [[Project](https://pku-yuangroup.github.io/Helios-Page/)]
-- [**HyDRA**] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/pdf/2603.25716)] [[Code](https://github.com/H-EmbodVis/HyDRA)] [[Project](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)]
 - Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25685)]
 - **MMaDA-VLA**: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25406)]
 - **ABot-PhysWorld**: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.23376)]
@@ -343,7 +405,6 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **Omni-WorldBench**: Towards a Comprehensive Interaction-Centric Evaluation for World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.22212)]
 - Do World Action Models Generalize Better than VLAs? A Robustness Study. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.22078)]
 - **InSpatio-WorldFM**: An Open-Source Real-Time Generative Frame Model. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.11911)] [[Project](https://inspatio.github.io/worldfm/)]
-- [**VEGA-3D**] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.19235)] [[Code](https://github.com/H-EmbodVis/VEGA-3D)]
 - **AcceRL**: A Distributed Asynchronous Reinforcement Learning and World Model Framework for Vision-Language-Action Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.18464)]
 - **EVA**: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.17808)] [[Project](https://eva-project-page.github.io/)]
 - **Stereo World Model**: Camera-Guided Stereo Video Generation. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.17375)] [[Project](https://sunyangtian.github.io/StereoWorld-web/)]
