@@ -18,6 +18,13 @@ If you find this repository useful in your research, please kindly consider givi
   year={2026}
 }
 
+@article{zhao2026simwam,
+  title={SimWAM: A Simple World Action Model for End-to-End Autonomous Driving},
+  author={Zongchuang Zhao and Xin Zhou and Tianyang Xu and Zhengyang Sun and Kaixuan Zhou and Honglin Li and Dingkang Liang and Xiang Bai},
+  journal={arXiv preprint arXiv:2608.07468},
+  year={2026}
+}
+
 @inproceedings{zhou2025hermes,
   title={HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation},
   author={Zhou, Xin and Liang, Dingkang and Tu, Sifan and Chen, Xiwu and Ding, Yikang and Zhang, Dingyuan and Tan, Feiyang and Zhao, Hengshuang and Bai, Xiang},
@@ -113,6 +120,7 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2026
+- **SimWAM**: A Simple World Action Model for End-to-End Autonomous Driving. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07468)] [[Code](https://github.com/H-EmbodVis/SimWAM)]
 - [**UniFuture**] UniFuture: A 4D Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **HERMES++**: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2604.28196)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] [[Project](https://h-embodvis.github.io/HERMESV2/)]
 - **RAYNOVA**: Scale-Temporal Autoregressive World Modeling in Ray Space. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2602.20685)] [[Project](https://raynova-ai.github.io/)]
@@ -398,6 +406,17 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **PointWorld**: Scaling 3D World Models for In-The-Wild Robotic Manipulation. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2601.03782)] [[Project](https://point-world.github.io/)]
 - **VerseCrafter**: Dynamic Realistic Video World Model with 4D Geometric Control. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2601.05138)] [[Project](https://sixiaozheng.github.io/VerseCrafter_page/)]
 - **NeoVerse**: Enhancing 4D World Model with in-the-wild Monocular Videos. **`CVPR 26`** [[Paper](https://arxiv.org/abs/2601.00393)] [[Project](https://neoverse-4d.github.io/)]
+- **UniJEPA**: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling. **`ICML 26`** [[Paper](https://arxiv.org/abs/2608.07409)]
+- **Beyond Myopic World Models**: Long-Horizon End-to-End Training for Direct Future Prediction. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07420)]
+- **Addressable Memory for Video World Models**. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07408)]
+- **WNM-3D**: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07267)]
+- **MemWM**: Memory-Augmented Text-Based World Model. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07107)]
+- Transformers Struggle to Use Their Emergent World Models: Revisiting the Tower of Hanoi, and the Illusion of Thinking. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07077)]
+- **PILOT**: Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06994)]
+- **PSG-JEPA**: Is Forward Prediction Enough? Physical State Grounding for JEPA World Models. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06799)]
+- **Surg-UniWorld**: A Unified Surgical World Model with Multimodal Control Experts. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06770)]
+- **Dueling World Models**: Advantage-Style Action Channels for Common-Mode Distractor Rejection. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06706)]
+- **TaskSense**: Focusing on What Matters in World Models. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06544)]
 - **$\omega$-0**: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06375)]
 - **GeniWorld**: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06332)]
 - **MASS**: Multiplayer World Models with Authoritative Shared State. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.06257)]
