@@ -123,6 +123,7 @@ If you find this repository useful in your research, please kindly consider givi
 - World Models for Autonomous Driving: An Initial Survey. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.02622)]
 
 ### 2026
+- **DriveVA**: Video Action Models are Zero-Shot Drivers. **`ECCV 26`** [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)] [[Code](https://github.com/xiaomi-mlab/DriveVA)]
 - **SimWAM**: A Simple World Action Model for End-to-End Autonomous Driving. **`arXiv 26.8`** [[Paper](https://arxiv.org/abs/2608.07468)] [[Code](https://github.com/H-EmbodVis/SimWAM)]
 - [**UniFuture**] UniFuture: A 4D Driving World Model for Future Generation and Perception. **`ICRA 26`** [[Paper](https://arxiv.org/abs/2503.13587)] [[Code](https://github.com/dk-liang/UniFuture)] [[Project](https://dk-liang.github.io/UniFuture/)]
 - **HERMES++**: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. **`arXiv 26.5`** [[Paper](https://arxiv.org/abs/2604.28196)] [[Code](https://github.com/H-EmbodVis/HERMESV2)] [[Project](https://h-embodvis.github.io/HERMESV2/)]
