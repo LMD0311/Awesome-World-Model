@@ -49,7 +49,7 @@ If you find this repository useful in your research, please kindly consider givi
 @article{zhou2026hermespp,
   title={HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation},
   author={Zhou, Xin and Liang, Dingkang and Chen, Xiwu and Tan, Feiyang and Zhang, Dingyuan and Zhao, Hengshuang and Bai, Xiang},
-  journal={arXiv preprint arXiv:2604.28196},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2026}
 }
 
