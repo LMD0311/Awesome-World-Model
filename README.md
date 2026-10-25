@@ -853,6 +853,9 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 
 ### 2025
 - [**DreamerV3**] Mastering Diverse Domains through World Models. **`Nature`** [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] [[JAX Code](https://github.com/danijar/dreamerv3)]
+- **DreamGen**: Unlocking Generalization in Robot Learning through Video World Models. **`CoRL 25`** [[Paper](https://arxiv.org/abs/2505.12705)]
+- **Genie Envisioner**: A Unified World Foundation Platform for Robotic Manipulation. **`arXiv 25.8`** [[Paper](https://arxiv.org/abs/2508.05635)] [[Code](https://github.com/AgibotTech/Genie-Envisioner-V1)]
+- **LAWM**: Latent Action Pretraining Through World Modeling. **`arXiv 25.9`** [[Paper](https://arxiv.org/abs/2509.18428)]
 - **GLAM**: Global-Local Variation Awareness in Mamba-based World Model.  **`AAAI 25`** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33880)] [[Code](https://github.com/GLAM2025/glam)]
 - **3D4D**: An Interactive, Editable, 4D World Model via 3D Video Generation.  **`AAAI 25`** [[Paper](https://arxiv.org/abs/2511.08536)]
 - Object-Centric World Models for Causality-Aware Reinforcement Learning.  **`AAAI 26`** [[Paper](https://arxiv.org/abs/2511.14262)]
@@ -1138,6 +1141,11 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - [**DWL**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. **`RSS 24 (Best Paper Award Finalist)`** [[Paper](https://arxiv.org/abs/2408.14472)]
 - [**LLM-Sim**] Can Language Models Serve as Text-Based World Simulators? **`ACL`** [[Paper](https://arxiv.org/abs/2406.06485)] [[Code](https://github.com/cognitiveailab/GPT-simulator)]
 - **RoboDreamer**: Learning Compositional World Models for Robot Imagination. **`ICML 24`** [[Paper](https://arxiv.org/abs/2404.12377)] [[Code](https://robovideo.github.io/)]
+- **WorldGPT**: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs. **`arXiv 24.3`** [[Paper](https://arxiv.org/abs/2403.07944)]
+- **WorldGPT**: Empowering LLM as Multimodal World Model. **`MM 24`** [[Paper](https://arxiv.org/abs/2404.18202)] [[Code](https://github.com/ZJU4EmbodiedAI/WorldGPT)]
+- **iVideoGPT**: Interactive VideoGPTs are Scalable World Models. **`NeurIPS 24`** [[Paper](https://arxiv.org/abs/2405.15223)] [[Code](https://github.com/thuml/iVideoGPT)]
+- **IRASim**: A Fine-Grained World Model for Robot Manipulation. **`CoRL 24`** [[Paper](https://arxiv.org/abs/2406.14540)] [[Code](https://github.com/bytedance/IRASim)]
+- [**LAPA**] Latent Action Pretraining from Videos. **`ICLR 25`** [[Paper](https://arxiv.org/abs/2410.11758)]
 - [**Δ-IRIS**] Efficient World Models with Context-Aware Tokenization. **`ICML 24`** [[Paper](https://arxiv.org/abs/2406.19320)] [[Code](https://github.com/vmicheli/delta-iris)]
 - **AD3**: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. **`ICML 24`** [[Paper](https://arxiv.org/abs/2403.09976)]
 - **Hieros**: Hierarchical Imagination on Structured State Space Sequence World Models. **`ICML 24`** [[Paper](https://arxiv.org/abs/2310.05167)]
@@ -1217,6 +1225,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **FOCUS**: Object-Centric World Models for Robotics Manipulation **`arXiv 23.7`** [[Paper](https://arxiv.org/abs/2307.02427)] [[Code](https://github.com/StefanoFerraro/FOCUS)]
 - [**Dynalang**] Learning to Model the World with Language. **`arXiv 23.8`** [[Paper](https://arxiv.org/pdf/2308.01399)] [[Code](https://github.com/jlin816/dynalang)]
 - [**TAD**] Task Aware Dreamer for Task Generalization in Reinforcement Learning. **`arXiv 23.3`** [[Paper](https://arxiv.org/pdf/2303.05092)]
+- **UniSim**: Learning Interactive Real-World Simulators. **`ICLR 24`** [[Paper](https://arxiv.org/abs/2310.06114)]
 ### 2022
 - [**TD-MPC**] Temporal Difference Learning for Model Predictive Control. **`ICML 22`** [[Paper](https://arxiv.org/pdf/2203.04955)][[Code](https://github.com/nicklashansen/tdmpc)]
 - **DreamerPro**: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. **`ICML 22`** [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)] [[Code](https://github.com/fdeng18/dreamer-pro)]
