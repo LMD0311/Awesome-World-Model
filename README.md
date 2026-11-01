@@ -492,7 +492,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **Adapt for Planning, Not just Prediction**: Optimistic Test-Time World Model Adaptation. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.35636)]
 - **Video World Models Need Predictable Latents**. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.34663)] [[Code](https://github.com/mattia-scardecchia/predictable-latents)]
 - **TurboWAM**: Learning What Matters for Fast World Action Models. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.33941)] [[Project](https://turbowam.github.io)]
-- **RoboWorM**: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.33807)]
+- **RoboWorM**: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.33807)] [[Code](https://github.com/cair-vinuni/roboworm)] [[Project](https://roboworm.github.io/roboworm/)]
 - **WMEval**: Evaluating Interactive World Models Grounded on Physical Simulations. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.33894)]
 - **What Does World Modeling Actually Improve in Robot Action Learning?** **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.34593)]
 - **X-World**: Transferring Video Priors to Variable-View Robot Control. **`arXiv 26.10`** [[Paper](https://arxiv.org/abs/2610.34105)]
