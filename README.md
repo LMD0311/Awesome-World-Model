@@ -443,6 +443,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - [**HyDRA**] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. **`arXiv 26.3`** [[Paper](https://arxiv.org/abs/2603.25716)] [[Code](https://github.com/H-EmbodVis/HyDRA)] [[Project](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)]
 - [**VEGA-3D**] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. **`ECCV 26`** [[Paper](https://arxiv.org/abs/2603.19235)] [[Code](https://github.com/H-EmbodVis/VEGA-3D)]
 - **Divide and Conquer**: Decoupled Representation Alignment for Multimodal World Models. **`ECCV 26`** [[Paper](https://arxiv.org/abs/2605.01896)]
+- **GR00T 2**: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation. **`NVIDIA Whitepaper 26.11`** [[Paper](https://research.nvidia.com/labs/gear/gr00t-2/assets/gr00t2_whitepaper.pdf)] [[Project](https://research.nvidia.com/labs/gear/gr00t-2/)]
 - **DRILL**: Training World Models to Improve Policies, Not Predict Pixels. **`NeurIPS 26`** [[Paper](https://arxiv.org/abs/2610.30814)]
 - **AEON**: Unifying Video and 3D World Models. **`NeurIPS 26`** [[Paper](https://arxiv.org/abs/2610.28631)] [[Code](https://github.com/weiqi-zhang/AEON)] [[Project](https://weiqi-zhang.github.io/AEON/)]
 - **SuperMimic**: Scaling Humanoid Whole-Body Control with One Differentiable World Model. **`CoRL 26 Oral`** [[Paper](https://arxiv.org/abs/2610.28480)] [[Project](https://supermimic.github.io/)]
