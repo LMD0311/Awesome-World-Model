@@ -1202,6 +1202,7 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 - **Cosmos** World Foundation Model Platform for Physical AI. **`NVIDIA`** **`arXiv 25.1`** [[Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NVIDIA%20Cosmos_4.pdf)] [[Code](https://github.com/NVIDIA/Cosmos)]
 ### 2024
 - [**SMAC**] Grounded Answers for Multi-agent Decision-making Problem through Generative World Model. **`NeurIPS 24`** [[Paper](https://arxiv.org/abs/2410.02664)]
+- **MABL**: Bi-Level Latent-Variable World Model for Sample-Efficient Multi-Agent Reinforcement Learning. **`AAMAS 24`** [[Paper](https://arxiv.org/abs/2304.06011)] [[Code](https://github.com/aravindvenu7/MABL)]
 - [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. **`NeurIPS 24`** [[Paper](https://arxiv.org/pdf/2305.15260)] [[Website](https://qiwang067.github.io/coworld)] [[Torch Code](https://github.com/qiwang067/CoWorld)]
 - [**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`NeurIPS 24`**  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
 - **PIVOT-R**: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation. **`NeurIPS 24`** [[Paper](https://arxiv.org/pdf/2410.10394)]
